@@ -34,7 +34,6 @@ V1.7
     - Tweaked water bucket sprite
     - New map sprite
     - Wool textured beds
-    - Wool textured beds
     - Tweaked apple and golden apple texture
     - Fixed snow side texture
     - Fixed mycellium side texture
