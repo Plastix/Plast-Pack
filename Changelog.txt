@@ -3,6 +3,7 @@ Complete Changelog
 
 V1.8
     - Enchanting table book matches book sprite
+    - Wheat sprite matches golden wheat texture
 
 V1.7
     - Tweaked the skinny sword textures (smaller hilts)
