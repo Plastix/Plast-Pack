@@ -1,6 +1,9 @@
 Plast Pack by Plastix
 Complete Changelog
 
+V1.8
+    - Enchanting table book matches book sprite
+
 V1.7
     - Tweaked the skinny sword textures (smaller hilts)
     - Added random flowers CTM (Enable in Optifine!)
