@@ -6,6 +6,7 @@ V1.8
     - Wheat sprite matches golden wheat texture
     - Random CTM for red mushroom blocks
     - Tweaked mushroom block texture
+    - Added tweaked quiver (currently unused)
 
 V1.7
     - Tweaked the skinny sword textures (smaller hilts)
