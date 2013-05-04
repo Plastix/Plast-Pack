@@ -1,0 +1,225 @@
+Plast Pack by Plastix
+Complete Changelog
+
+V1.7
+    - Tweaked the skinny sword textures (smaller hilts)
+    - Added random flowers CTM (Enable in Optifine!)
+    - Added minimal vines (Requested by CacklingPanda)
+    - Fixed a bug with the tall grass CTM
+    - Added a smoother sponge texture (no more eye burn!)
+    - Brighter flower pot texture
+    - Higher contrast, blue, compass
+    - Upped saturation on mossy cobble
+    - Upped saturation on mossy stone brick
+    - Upped saturation on jungle and spruce saplings
+    - Upped saturation on lava
+    - Upped saturation for pumpkins
+    - Smoother TNT side texture
+    - Greener cacti
+    - More golden wheat
+    - Fixed bug with tripwire
+    - Added a better cauldron sprite
+    - Slightly tweaked ghast tear sprite
+    - Tweaked water bucket sprite
+    - New map sprite
+    - Wool textured beds
+    - Tweaked apple and golden apple texture
+    - Fixed snow side texture
+    - Fixed mycellium side texture
+    - Added tweaked hardened clay block (Snapshot 13w17a)
+    - Replaced saddle sprite with a tweaked horse saddle (Snapshot 13w17a)
+    - Tweaked saddle texture to match new sprite
+    - Smoother quartz block texture
+    - Slightly smoother smooth sandstone texture
+    - Tweaked firework sprite
+    - Added a bunch of tweaked mob textures
+    - Added coal block that matches redstone block texture (Snapshot 13w18a)
+
+V1.6
+    - Added connected textures for sandstone (Enable CTM in Optifine!)
+    - Added connected textures for bookshelves (Enable CTM in Optifine!)
+    - Tweaked hue and lowered opacity for water
+    - Added custom HD font
+    - Better XP Bottle sprite (matches splash potions)
+    - Tweaked leather color to match leather armor
+    - Lowered portal opacity some more
+    - Tweaked brick texture
+    - Tweaked wood and iron doors
+    - Tweaked door sprites to match the textures
+    - Tweaked trap door texture
+    - Added potion effect icons by Enchilado (From Rakepack)
+    - Tweaked a few pixels on the crit particles
+    - Fixed two hunger bar icons missing (Thanks Firedar!)
+    - Hearts are purple with the wither effect
+    - Hearts are green with poison effect
+    - Dye sprites are more uniform
+    - Tweaked trip wire texture
+    - Smoother snow texture
+    - Tinted beds blue
+    - Tinted trap chests red
+    - Better golden apple sprite
+    - Increased saturation for wool textures
+    - Increased saturation for mycellium
+    - Nether quartz matches emerald texture
+    - Removed mini "icon" from item frame sprite
+    - Blaze powder matches other dust piles
+    - Tweaked beacon block hue
+    - Updated Stevian Villagers by zebragrrl (tweaked witch texture + zombie villager)
+    - Nicer endercrystal texture
+
+V1.5
+    - Fixed Connected Textures for the 1.5 CTM!
+    - Added connected textures for both weighted pressureplates
+    - Added connected textures for vines
+    - Added clear hopper GUI
+    - Added color.properties
+    - Tweaked book GUI
+    - Added iron block styled anvils
+    - Added blue enchanted books
+    - Removed fuse from top TNT texture
+    - Cleaner TNT minecart sprite
+    - Tweaked golden carrot texture
+    - Added yellow tinted trap chests
+    - Custom Minecraft crash logo
+    - Greener slimes
+    - Better texture for vertical droppers and dispensers
+    - New netherquartz ore texture
+    - Tinted jungle log more red
+    - Added new texture for lapis and redstone blocks
+    - Tweaked fishing rod sprite
+    - Tabs in the creative menu are greyed out when inactive
+    - Tweaked lever texture
+    - Tweaked activator rail texture
+    - Better commandblock texture
+    - Better gravel texture
+    - Added new tunnel.png (end sky)
+    - Added Stevian Villagers by zebragrrl
+    - Updated custom fire to use the 1.5 system
+    - Lowered nether portal opacity
+    - Cleaner beacon beam texture
+
+V1.4.1
+    - Updated to Minecraft 1.5
+    - Dark mojang logo
+    - Better shadow.png
+    - Lapis ore matches the other ore blocks
+    - Removed lines from ice texture
+    - Flipped glistering melon texture
+    - Smooth redstone wire
+    - Nicer map sprite texture
+    - Misc bug fixes
+
+
+
+v1.4
+    - New skinny tool set! (Thanks to PandaBattalion and zZFireGuyZz for the help!)
+    - Tweaked skinny sword textures again
+    - Melon texture is more green
+    - Gold block texture is brighter
+    - Cleaner ladder texture
+    - Cleaner wooden plank textures
+    - Cleaner crafting table texture
+    - Smooth boat texture
+    - Smooth sign texture 
+    - Smooth wood texture for background of paintings
+    - Removed a stray pixel from the log end texture
+    - Custom mycellium "spore" particle colors (custom colors)
+    - Removed background texture for item frames
+    - Added static portal texture for people who play with portal animations disabled
+    - Tinted logs ends via connected textures
+    - Random tall grass textures via connected textures
+    - Random grass textures via connected textures
+    - Custom tops of reeds via connected textures
+    - Custom pressureplate textures via connected textures
+    - Custom button textures via connected textures
+    - Nicer tripwire hook sprite
+    - Bucket textures are no longer "leaky"
+    - Modified signal strength icons
+    - Modified lilypad texture
+    - Smoother soil texture
+    - Smoother dead shrub texture
+    - Tweaked hotbar heart colors
+    - Changed saddled pig texture
+    - Warmer sand texture
+    - Removed black pixels from jack o' lantern texture
+    - Added smooth glass pane top texture
+    - Removed red fabric from enchantment table
+    - Changed emerald ore texture to match the other ores
+    - All diamond textures are a nicer blue (enchanting table, diamond block, diamond ore, diamond armor, diamond tools)
+    - Watermelon slice sprite is more green
+    - Added "melon slices" style food bar
+    - Colorized armor bar to match diamond color
+    - Nicer pack.png
+    - Custom lightmap (turn custom colors on)
+    - Custom sky color and fog color (custom colors)
+
+V1.3
+    - Tweaked custom colors and grasscolor.png
+    - Updated saturation on arrows for better visibility
+    - Added a separator between hotbar and rest of inventory
+    - New skinny swords!
+    - Drawback status bar on bows!
+    - Custom image for unknown texture packs
+    - Changed XP bar
+    - Added newer water/lava textures (From snapshot 12w32a)
+    - Fixed offset lilypad texture (Thanks gsand!)
+    - Better door and trap door textures (Thanks gsand!)
+    - Cleaner lit lamp texture (Thanks gsand!)
+    - Cleaner farmland texture (Thanks gsand!)
+    - Better reed texture for more visibility (Thanks gsand!)
+    - Smaller tall grass texture (From snapshot 12w32a)
+    - More visible tripwire texture (Thanks gsand!)
+    - Brighter glowstone texture (Thanks gsand!) 
+    - Less purple obsidian texture (Thanks gsand!) 
+    - Removed gray dots from dirt with snow texture
+    - Bumped saturation of the brick texture
+    - Diamond block texture resembles emerald block texture
+    - Gold block texture resembles iron block texture
+    - Leather armor highlights are grey
+    - Fixed overlapping tabs in creative menu
+    - Fixed crafting table and dispenser GUI
+    - Creeper "A" in the minecraft logo is now green
+
+V1.2
+    - Darkened explosions (Thanks Legobmw99!)
+    - Removed gray pixels from mycellium texture
+    - Modified white GUI highlights to match the hotbar highlight
+    - Scroll bar in creative menu is gray when disabled
+    - Grasscolor.png and folliagecolor.png are flat colors
+    - Added support for custom colors (enable it in optifine or use mcpatcher)
+    - Added support for connected textures (enable it in optifine or use mcpatcher)
+
+V1.1
+    - Fixed some GUIs not being white in the white GUI pack
+    - Slider for creative menu now matches the clear theme
+    - Hotbar selector is bolder (Requested by Firedar)
+    - Block breaking animation colored white for high visibility (Thanks McYukon!)
+    - Clear vignete.png (for people who use fancy graphics)
+    - Clear mapbg.png
+    - Clear water.png
+    - Clear clouds.png
+    - Clear rain.png
+    - Clear snow.png
+    - Super saturated grasscolor.png and foliagecolor.png
+
+V1.0
+Nala4008's Edits:
+    - Clear GUI Base
+    - Custom minimal fire (doesn't obstruct view in the HUD)
+    - Custom enchantment glint
+    - Removed faces from pumpkins
+Plastix's Edits:
+    - Modified Nala4008's existing GUI (Inventory, Crafting Table, Furnace)
+    - Added clear GUI's for beacons, villager trading, anvils, and brewing stands
+    - Minimal/Clear hotbar and xp bar as well as simplified health, food, and armor bars
+    - Minimal/Clear GUI buttons
+    - Custom main menu screen panorama (RFV3 Style!)
+    - GUI background is stonebrick instead of dirt
+    - Minimal moon phases
+    - Clear pumpkin blur
+    - Clean glass texture
+    - Clean iron bars texture
+    - Smoother bedrock texture
+    - Netherbrick matches the stone brick texture
+    - Removed grey pixels from the dirt texture
+    - Added thin default swords. (Credit goes for MrM00se for the idea, edited by Plastix)
