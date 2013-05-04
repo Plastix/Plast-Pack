@@ -9,6 +9,7 @@ V1.8
     - Added tweaked quiver sprite (currently unused)
     - Added tweaked fermented spider eye sprite
     - Added a tweaked mushroom stew sprite
+    - Upped saturation on brick sprite
 
 V1.7
     - Tweaked the skinny sword textures (smaller hilts)
