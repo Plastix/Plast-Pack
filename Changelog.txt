@@ -9,7 +9,8 @@ V1.8
     - Added tweaked quiver sprite (currently unused)
     - Added tweaked fermented spider eye sprite
     - Added a tweaked mushroom stew sprite
-    - Upped saturation on brick sprite
+    - Increased saturation for brick sprite
+    - Increased saturation for mycelium particles
 
 V1.7
     - Tweaked the skinny sword textures (smaller hilts)
@@ -19,11 +20,11 @@ V1.7
     - Added a smoother sponge texture (no more eye burn!)
     - Brighter flower pot texture
     - Higher contrast, blue, compass
-    - Upped saturation on mossy cobble
-    - Upped saturation on mossy stone brick
-    - Upped saturation on jungle and spruce saplings
-    - Upped saturation on lava
-    - Upped saturation for pumpkins
+    - Increased saturation for mossy cobble
+    - Increased saturation for mossy stone brick
+    - Increased saturation for jungle and spruce saplings
+    - Increased saturation for lava
+    - Increased saturation for pumpkins
     - Smoother TNT side texture
     - Greener cacti
     - More golden wheat
@@ -32,6 +33,7 @@ V1.7
     - Slightly tweaked ghast tear sprite
     - Tweaked water bucket sprite
     - New map sprite
+    - Wool textured beds
     - Wool textured beds
     - Tweaked apple and golden apple texture
     - Fixed snow side texture
