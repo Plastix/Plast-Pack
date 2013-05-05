@@ -12,8 +12,9 @@ V1.8
     - Increased saturation for brick sprite
     - Increased saturation for mycelium particles
     - Added amazing custom paintings by Pig_Rider
-    - Add a nicer nametag sprite (Courtesy of McSpider)
-    - Add random enchanting particles (Courtesy of McSpider)
+    - Added a nicer nametag sprite (Courtesy of McSpider)
+    - Added random enchanting particles (Courtesy of McSpider)
+    - Added HD font tweaks (Courtesy of McSpider)
 
 V1.7
     - Tweaked the skinny sword textures (smaller hilts)
