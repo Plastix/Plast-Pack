@@ -11,6 +11,7 @@ V1.8
     - Added a tweaked mushroom stew sprite
     - Increased saturation for brick sprite
     - Increased saturation for mycelium particles
+    - Added amazing custom paintings by Pig_Rider
 
 V1.7
     - Tweaked the skinny sword textures (smaller hilts)

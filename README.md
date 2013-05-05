@@ -13,4 +13,5 @@ Supports Optifine/MCPatcher features such as *Connected Textures*, *Custom Color
 * [gsand](https://oc.tc/gsand): Some tweaked vanilla textures
 * Zebragrrl: [Stevian Villagers](http://www.minecraftforum.net/topic/1016007-16x151-stevian-villagers-new-download-link-422013/)
 * Enchilado: [Potion Effect Icons](http://www.minecraftforum.net/topic/1547673-16%C3%97151-rakepack-default-revamped-heavily-revised-icons-with-minimal-block-tweaks/)
+* [Pig_Rider](http://www.reddit.com/user/Pig_Rider): Amazing custom paintings!
 
