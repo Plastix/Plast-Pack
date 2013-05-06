@@ -13,9 +13,10 @@ V1.8
     - Increased saturation for mycelium particles
     - Added amazing custom paintings by Pig_Rider
     - Added a nicer nametag sprite (Courtesy of McSpider)
-    - Added random enchanting particles (Courtesy of McSpider)
+    - Added rainbow enchanting particles (Courtesy of McSpider)
     - Added HD font tweaks (Courtesy of McSpider)
     - Added a nicer daylight sensor texture Courtesy of McSpider)
+    - Added rainbow colored enchanting glyphs
 
 V1.7
     - Tweaked the skinny sword textures (smaller hilts)
