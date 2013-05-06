@@ -15,7 +15,8 @@ V1.8
     - Added a nicer nametag sprite (Courtesy of McSpider)
     - Added some nicer particles (Courtesy of McSpider)
     - Added HD font tweaks (Courtesy of McSpider)
-    - Added a nicer daylight sensor texture Courtesy of McSpider)
+    - Added a nicer daylight sensor texture (Courtesy of McSpider)
+    - Added smoother comparator and repeater textures (Courtesy of McSpider)
     - Added rainbow colored enchanting glyphs
 
 V1.7
