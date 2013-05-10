@@ -18,6 +18,7 @@ V1.8
     - Added a nicer daylight sensor texture (Courtesy of McSpider)
     - Added smoother comparator and repeater textures (Courtesy of McSpider)
     - Added rainbow colored enchanting glyphs
+    - Tweaked bow tip sprite
 
 V1.7
     - Tweaked the skinny sword textures (smaller hilts)
