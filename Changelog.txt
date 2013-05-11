@@ -19,6 +19,7 @@ V1.8
     - Added smoother comparator and repeater textures (Courtesy of McSpider)
     - Added rainbow colored enchanting glyphs
     - Tweaked bow tip sprite
+    - Added creeper face jack o' lanterns
 
 V1.7
     - Tweaked the skinny sword textures (smaller hilts)
