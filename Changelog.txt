@@ -22,6 +22,7 @@ V1.8
     - Added creeper face jack o' lanterns
     - Tweaked smooth sandstone texture
     - Added tweaked sandstone top texture
+    - Added new trap chest texture (Thanks Freyr29!)
 
 V1.7
     - Tweaked the skinny sword textures (smaller hilts)
