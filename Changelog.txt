@@ -21,6 +21,7 @@ V1.8
     - Tweaked bow tip sprite
     - Added creeper face jack o' lanterns
     - Tweaked smooth sandstone texture
+    - Added tweaked sandstone top texture
 
 V1.7
     - Tweaked the skinny sword textures (smaller hilts)
