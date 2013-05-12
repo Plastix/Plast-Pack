@@ -13,8 +13,8 @@ Special Thanks to:
 * [legobmw99](https://oc.tc/legobmw99): Feedback and help with connected textures
 * [Firedar](https://oc.tc/Firedar): Tons of feedback!
 * [gsand](https://oc.tc/gsand): Some tweaked vanilla textures
-* [Zebragrrl](http://www.minecraftforum.net/topic/1016007-16x151-stevian-villagers-new-download-link-422013/): Stevian villagers
-* [Enchilado](http://www.minecraftforum.net/topic/1547673-16%C3%97151-rakepack-default-revamped-heavily-revised-icons-with-minimal-block-tweaks/): Potion effect icons
+* [Zebragrrl](http://www.minecraftforum.net/topic/1016007-): Stevian villagers
+* [Enchilado](http://www.minecraftforum.net/topic/1547673-): Potion effect icons
 * [Pig_Rider](http://www.reddit.com/user/Pig_Rider): Amazing custom paintings!
 * [McSpider](https://oc.tc/McSpider): Camaraderie and awesome textures
 
