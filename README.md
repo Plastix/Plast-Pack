@@ -17,7 +17,9 @@ Special Thanks to:
 * [Enchilado](http://www.minecraftforum.net/topic/1547673-): Potion effect icons
 * [Pig_Rider](http://www.reddit.com/user/Pig_Rider): Amazing custom paintings!
 * [McSpider](https://oc.tc/McSpider): Camaraderie and awesome textures
+* [Freyr29](https://oc.tc/Freyr29): Trap chest textures
 
 Licensing:
 ------
-You may modify the Plast Pack for personal use only! Do not distribute modified versions of the Plast Pack!
+The Plast Pack is released under the [Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported](http://creativecommons.org/licenses/by-nc-sa/3.0/) license.
+![license](http://i.creativecommons.org/l/by-nc-sa/3.0/88x31.png)
