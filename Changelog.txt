@@ -20,6 +20,7 @@ V1.8
     - Added rainbow colored enchanting glyphs
     - Tweaked bow tip sprite
     - Added creeper face jack o' lanterns
+    - Tweaked smooth sandstone texture
 
 V1.7
     - Tweaked the skinny sword textures (smaller hilts)
