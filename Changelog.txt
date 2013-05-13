@@ -24,6 +24,7 @@ V1.8
     - Added tweaked sandstone top texture
     - Added new trap chest texture (Thanks Freyr29!)
     - Tweaked enchanting table GUI
+    - Added new Mojang splash screen (Courtesy of McSpider)
 
 V1.7
     - Tweaked the skinny sword textures (smaller hilts)
