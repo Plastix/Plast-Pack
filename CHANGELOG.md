@@ -229,12 +229,10 @@ V1.1
     - Super saturated grasscolor.png and foliagecolor.png
 V1.0
 ------
-Nala4008's Edits:
-    - Clear GUI Base
+    - Clear GUI Base (Credit to nala4008)
     - Custom minimal fire (doesn't obstruct view in the HUD)
-    - Custom enchantment glint
+    - Custom enchantment glint (Credit to nala4008)
     - Removed faces from pumpkins
-Plastix's Edits:
     - Modified Nala4008's existing GUI (Inventory, Crafting Table, Furnace)
     - Added clear GUI's for beacons, villager trading, anvils, and brewing stands
     - Minimal/Clear hotbar and xp bar as well as simplified health, food, and armor bars
