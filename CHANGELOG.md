@@ -1,7 +1,8 @@
-Plast Pack by Plastix
-Complete Changelog
+Plast Pack Changelog
+======
 
 V1.8
+------
     - Enchanting table book matches book sprite
     - Wheat sprite matches golden wheat texture
     - Random CTM for red mushroom blocks
@@ -27,8 +28,8 @@ V1.8
     - Added new Mojang splash screen (Courtesy of McSpider)
     - Added random bricks CTM (Enable in Optifine!)
     - Added iron bars CTM (May not work: Enable in Optifine!)
-
 V1.7
+------
     - Tweaked the skinny sword textures (smaller hilts)
     - Added random flowers CTM (Enable in Optifine!)
     - Added minimal vines (Requested by CacklingPanda)
@@ -61,8 +62,8 @@ V1.7
     - Tweaked firework sprite
     - Added a bunch of tweaked mob textures
     - Added coal block that matches redstone block texture (Snapshot 13w18a)
-
 V1.6
+------
     - Added connected textures for sandstone (Enable CTM in Optifine!)
     - Added connected textures for bookshelves (Enable CTM in Optifine!)
     - Tweaked hue and lowered opacity for water
@@ -93,8 +94,8 @@ V1.6
     - Tweaked beacon block hue
     - Updated Stevian Villagers by zebragrrl (tweaked witch texture + zombie villager)
     - Nicer endercrystal texture
-
 V1.5
+------
     - Fixed Connected Textures for the 1.5 CTM!
     - Added connected textures for both weighted pressureplates
     - Added connected textures for vines
@@ -124,8 +125,8 @@ V1.5
     - Updated custom fire to use the 1.5 system
     - Lowered nether portal opacity
     - Cleaner beacon beam texture
-
 V1.4.1
+------
     - Updated to Minecraft 1.5
     - Dark mojang logo
     - Better shadow.png
@@ -135,10 +136,8 @@ V1.4.1
     - Smooth redstone wire
     - Nicer map sprite texture
     - Misc bug fixes
-
-
-
 v1.4
+------
     - New skinny tool set! (Thanks to PandaBattalion and zZFireGuyZz for the help!)
     - Tweaked skinny sword textures again
     - Melon texture is more green
@@ -179,8 +178,8 @@ v1.4
     - Nicer pack.png
     - Custom lightmap (turn custom colors on)
     - Custom sky color and fog color (custom colors)
-
 V1.3
+------
     - Tweaked custom colors and grasscolor.png
     - Updated saturation on arrows for better visibility
     - Added a separator between hotbar and rest of inventory
@@ -206,8 +205,8 @@ V1.3
     - Fixed overlapping tabs in creative menu
     - Fixed crafting table and dispenser GUI
     - Creeper "A" in the minecraft logo is now green
-
 V1.2
+------
     - Darkened explosions (Thanks Legobmw99!)
     - Removed gray pixels from mycellium texture
     - Modified white GUI highlights to match the hotbar highlight
@@ -215,8 +214,8 @@ V1.2
     - Grasscolor.png and folliagecolor.png are flat colors
     - Added support for custom colors (enable it in optifine or use mcpatcher)
     - Added support for connected textures (enable it in optifine or use mcpatcher)
-
 V1.1
+------
     - Fixed some GUIs not being white in the white GUI pack
     - Slider for creative menu now matches the clear theme
     - Hotbar selector is bolder (Requested by Firedar)
@@ -228,8 +227,8 @@ V1.1
     - Clear rain.png
     - Clear snow.png
     - Super saturated grasscolor.png and foliagecolor.png
-
 V1.0
+------
 Nala4008's Edits:
     - Clear GUI Base
     - Custom minimal fire (doesn't obstruct view in the HUD)
