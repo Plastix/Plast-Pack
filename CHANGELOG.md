@@ -29,6 +29,7 @@ V1.8
     - Added random bricks CTM (Enable in Optifine!)
     - Added iron bars CTM (May not work: Enable in Optifine!)
     - Added better villager GUI buttons
+    - Added new ender chest texture (Tweaked version of McSpider's texture)
 V1.7
 ------
     - Tweaked the skinny sword textures (smaller hilts)
