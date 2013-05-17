@@ -28,6 +28,7 @@ V1.8
     - Added new Mojang splash screen (Courtesy of McSpider)
     - Added random bricks CTM (Enable in Optifine!)
     - Added iron bars CTM (May not work: Enable in Optifine!)
+    - Added better villager GUI buttons
 V1.7
 ------
     - Tweaked the skinny sword textures (smaller hilts)
