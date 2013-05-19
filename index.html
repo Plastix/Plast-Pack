@@ -6,14 +6,14 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- Roboto from Google Fonts -->
   <link href='http://fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,400italic,500italic,500,700italic,700,900,900italic' rel='stylesheet' type='text/css'>
-  <!-- Add that Special B -->
   <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/css/lightbox.css" rel="stylesheet">
 
   <style type="text/css">
   body {
     padding-top: 20px;
     padding-bottom: 20px;
-    background: url(assets/img/bg.jpg) no-repeat center center fixed; 
+    background: url(assets/images/bg.jpg) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -117,43 +117,43 @@
         <div class="row-fluid">
           <ul class="thumbnails">
             <li class="span3">
-              <a class="thumbnail">
-                <img src="assets/img/1.jpg">
+              <a href="assets/images/1.jpg" class="thumbnail" rel="lightbox[gallery]">
+                <img src="assets/images/1.jpg">
               </a>
             </li>
             <li class="span3">
-              <a href="#" class="thumbnail">
-                <img src="assets/img/2.jpg" alt="">
+              <a href="assets/images/2.jpg" class="thumbnail" rel="lightbox[gallery]">
+                <img src="assets/images/2.jpg" alt="">
               </a>
             </li>
             <li class="span3">
-              <a href="#" class="thumbnail">
-                <img src="assets/img/3.jpg" alt="">
+              <a href="assets/images/3.jpg" class="thumbnail" rel="lightbox[gallery]">
+                <img src="assets/images/3.jpg" alt="">
               </a>
             </li>
             <li class="span3">
-              <a href="#" class="thumbnail">
-                <img src="assets/img/4.jpg" alt="">
+              <a href="assets/images/4.jpg" class="thumbnail" rel="lightbox[gallery]">
+                <img src="assets/images/4.jpg" alt="">
               </a>
             </li>
             <li class="span3">
-              <a href="#" class="thumbnail">
-                <img src="assets/img/1.jpg" alt="">
+              <a href="assets/images/5.jpg" class="thumbnail" rel="lightbox[gallery]">
+                <img src="assets/images/5.jpg" alt="">
               </a>
             </li>
             <li class="span3">
-              <a href="#" class="thumbnail">
-                <img src="assets/img/2.jpg" alt="">
+              <a href="assets/images/6.jpg" class="thumbnail" rel="lightbox[gallery]">
+                <img src="assets/images/6.jpg" alt="">
               </a>
             </li>
             <li class="span3">
-              <a href="#" class="thumbnail">
-                <img src="assets/img/3.jpg" alt="">
+              <a href="assets/images/7.jpg" class="thumbnail" rel="lightbox[gallery]">
+                <img src="assets/images/7.jpg" alt="">
               </a>
             </li>
             <li class="span3">
-              <a href="#" class="thumbnail">
-                <img src="assets/img/4.jpg" alt="">
+              <a href="assets/images/8.jpg" class="thumbnail" rel="lightbox[gallery]">
+                <img src="assets/images/8.jpg" alt="">
               </a>
             </li>
           </ul>
@@ -168,6 +168,7 @@
 
     <script src="assets/js/jquery.js"></script>
     <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/lightbox.js"></script>
     <script type="text/javascript">
     $(document).ready(function () {
       $("[rel=tooltip]").tooltip();
