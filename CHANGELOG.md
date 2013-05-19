@@ -31,6 +31,7 @@ V1.8
     - Added better villager GUI buttons
     - Added new ender chest texture (Tweaked version of McSpider's texture)
     - New smoother XP bar 
+    - Better mob spawner texture (Thanks legobmw99!)
 V1.7
 ------
     - Tweaked the skinny sword textures (smaller hilts)
