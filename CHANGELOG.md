@@ -32,6 +32,7 @@ V1.8
     - Added new ender chest texture (Tweaked version of McSpider's texture)
     - New smoother XP bar 
     - Better mob spawner texture (Thanks legobmw99!)
+    - Added a clear GUI for horses (For Snapshot 13w21a)
 V1.7
 ------
     - Tweaked the skinny sword textures (smaller hilts)
