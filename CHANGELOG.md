@@ -33,6 +33,7 @@ V1.8
     - New smoother XP bar 
     - Better mob spawner texture (Thanks legobmw99!)
     - Added a clear GUI for horses (For Snapshot 13w21a)
+    - Added random steve shirt colors via Random Mobs  (Requires Optifine/MCPatcher)
 V1.7
 ------
     - Tweaked the skinny sword textures (smaller hilts)
