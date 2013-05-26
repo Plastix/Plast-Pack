@@ -34,6 +34,7 @@ V1.8
     - Better mob spawner texture (Thanks legobmw99!)
     - Added a clear GUI for horses (For Snapshot 13w21a)
     - Added random steve shirt colors via Random Mobs  (Requires Optifine/MCPatcher)
+    - Added a smoother netherrack texture
 V1.7
 ------
     - Tweaked the skinny sword textures (smaller hilts)
