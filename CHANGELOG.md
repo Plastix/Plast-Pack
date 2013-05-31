@@ -36,6 +36,7 @@ V1.8
     - Added random steve shirt colors via Random Mobs  (Requires Optifine/MCPatcher)
     - Added a smoother netherrack texture
     - Added a better charcoal sprite (For Snapshot 13w19a+)
+    - Tweaked reed texture (Suggested by Freyr29)
 V1.7
 ------
     - Tweaked the skinny sword textures (smaller hilts)
