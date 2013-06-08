@@ -37,6 +37,7 @@ V1.8
     - Added a smoother netherrack texture
     - Added a better charcoal sprite (For Snapshot 13w19a+)
     - Tweaked reed texture (Suggested by Freyr29)
+    - Lowered ice opacity (Matches clear water)
 V1.7
 ------
     - Tweaked the skinny sword textures (smaller hilts)
