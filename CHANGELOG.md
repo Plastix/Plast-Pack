@@ -41,6 +41,7 @@ V1.8
     - Added a better footprint texture
     - Tweaked water color
     - Added more transparent fancy graphic leaves (Thanks Freyr29!)
+    - Lowered saturation on grass and some blocks
 V1.7
 ------
     - Tweaked the skinny sword textures (smaller hilts)
