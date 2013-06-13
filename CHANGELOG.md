@@ -39,6 +39,7 @@ V1.8
     - Tweaked reed texture (Suggested by Freyr29)
     - Lowered ice opacity (Matches clear water)
     - Added a better footprint texture
+    - Tweaked water color
 V1.7
 ------
     - Tweaked the skinny sword textures (smaller hilts)
