@@ -40,6 +40,7 @@ V1.8
     - Lowered ice opacity (Matches clear water)
     - Added a better footprint texture
     - Tweaked water color
+    - Added more transparent fancy graphic leaves (Thanks Freyr29!)
 V1.7
 ------
     - Tweaked the skinny sword textures (smaller hilts)
