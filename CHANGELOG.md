@@ -1,6 +1,13 @@
 Plast Pack Changelog
 ======
 
+V1.8.1
+------
+    - Update to the new resource pack system
+    - Added calmer rain sounds
+    - Added a louder ding sound
+    - Added some custom splashes
+
 V1.8
 ------
     - Enchanting table book matches book sprite
@@ -30,7 +37,7 @@ V1.8
     - Added iron bars CTM (May not work: Enable in Optifine!)
     - Added better villager GUI buttons
     - Added new ender chest texture (Tweaked version of McSpider's texture)
-    - New smoother XP bar 
+    - New smoother XP bar
     - Better mob spawner texture (Thanks legobmw99!)
     - Added a clear GUI for horses (For Snapshot 13w21a+)
     - Added random steve shirt colors via Random Mobs  (Requires Optifine/MCPatcher)
@@ -160,7 +167,7 @@ v1.4
     - Cleaner wooden plank textures
     - Cleaner crafting table texture
     - Smooth boat texture
-    - Smooth sign texture 
+    - Smooth sign texture
     - Smooth wood texture for background of paintings
     - Removed a stray pixel from the log end texture
     - Custom mycellium "spore" particle colors (custom colors)
@@ -209,8 +216,8 @@ V1.3
     - Better reed texture for more visibility (Thanks gsand!)
     - Smaller tall grass texture (From snapshot 12w32a)
     - More visible tripwire texture (Thanks gsand!)
-    - Brighter glowstone texture (Thanks gsand!) 
-    - Less purple obsidian texture (Thanks gsand!) 
+    - Brighter glowstone texture (Thanks gsand!)
+    - Less purple obsidian texture (Thanks gsand!)
     - Removed gray dots from dirt with snow texture
     - Bumped saturation of the brick texture
     - Diamond block texture resembles emerald block texture
