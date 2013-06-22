@@ -17,18 +17,18 @@
 §b krowteN tsacrevO
 §b War Wars
 §b EU servers
-&b RFV4 releasing tomorrow!
-&b Test Map Please Ignore
-&b Biggest lie on the internet
-&b Grief me!
-&b pvp.oc.tc:1337
-&b Supreme Overlord
-&b Ducks!
-&b Break the core!
-&b Budder swords
-&b How do I get mod?
-&b Mod party!
-&b /setnext
-&b Type /reload!
-&b Internet Famous
-&g Gee Gee
+§b RFV4 releasing tomorrow!
+§b Test Map Please Ignore
+§b Biggest lie on the internet
+§b Grief me!
+§b pvp.oc.tc:1337
+§b Supreme Overlord
+§b Ducks!
+§b Break the core!
+§b Budder swords
+§b How do I get mod?
+§b Mod party!
+§b /setnext
+§b Type /reload!
+§b Internet Famous
+§b Gee Gee
