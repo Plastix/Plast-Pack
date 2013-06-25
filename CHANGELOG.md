@@ -7,6 +7,7 @@ V1.8.1
     - Added calmer rain sounds
     - Added a louder ding sound
     - Added some custom splashes
+    - Added new pack.png
 
 V1.8
 ------
