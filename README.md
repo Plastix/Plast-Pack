@@ -1,7 +1,7 @@
 Plast Pack
 ==========
 
->A PVP customized version of the default Minecraft texture pack. Made for [oc.tc](https://oc.tc/)! Vivid colors and smooth textures!
+>A PVP customized version of the default Minecraft resource pack. Made for [oc.tc](https://oc.tc/)! Vivid colors and smooth textures!
  
 Supports Optifine/MCPatcher features such as *Connected Textures*, *Custom Colors*, and *Natural Textures*.
 
