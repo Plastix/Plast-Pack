@@ -1,13 +1,15 @@
 Plast Pack Changelog
 ======
 
-V1.8.1
+V1.9
 ------
     - Update to the new resource pack system
     - Added calmer rain sounds
     - Added a louder ding sound
     - Added some custom splashes
     - Added new pack.png
+    - Desaturated a bit wheat
+    - Misc cleanup/fixes
 
 V1.8
 ------
