@@ -9,6 +9,7 @@ V1.9
     - Added some custom splashes
     - Added new pack.png
     - Desaturated a bit wheat
+    - Added a smoother chiseled sandstone texture
     - Misc cleanup/fixes
 
 V1.8
