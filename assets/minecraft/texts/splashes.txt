@@ -128,3 +128,6 @@
 §b Turn on Natural Textures!
 §b Try Optifine or MCPatcher!
 §b Rainbow XP!
+§b Neon green grass!
+§b Context is important!
+§b All you have to do is delete things!
