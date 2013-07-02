@@ -6,9 +6,11 @@ V1.9
     - Update to the new resource pack system
     - Added calmer rain sounds
     - Added a louder ding sound
+    - Added a custom GUI click sound (Credit to Lzn02!)
+    - Added a custom drink sound (Credit to Lzn02!)
     - Added some custom splashes
     - Added new pack.png
-    - Desaturated a bit wheat
+    - Desaturated wheat a bit
     - Added a smoother chiseled sandstone texture
     - Misc cleanup/fixes
 

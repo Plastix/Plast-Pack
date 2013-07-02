@@ -20,6 +20,7 @@ Special Thanks to:
 * [Pig_Rider](http://www.reddit.com/user/Pig_Rider): Amazing custom paintings!
 * [McSpider](https://oc.tc/McSpider): Camaraderie and awesome textures
 * [Freyr29](https://oc.tc/Freyr29): Trap chest textures
+* [Lzn02](http://www.minecraftforum.net/topic/1436016-): Some custom sounds
 
 Licensing:
 ------
