@@ -1,6 +1,10 @@
 Plast Pack Changelog
 ======
 
+V1.9.1
+------
+    - Decreased volume of portal sounds (Suggested by zZFireGuyZz!)
+
 V1.9
 ------
     - Update to the new resource pack system
