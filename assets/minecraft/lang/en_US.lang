@@ -152,8 +152,8 @@ chat.type.emote=* %s %s
 chat.type.announcement=[%s] %s
 chat.type.admin=[%s: %s]
 chat.link.confirm=Are you sure you want to open the following website?
-chat.link.warning=Never open links from people that you don't trust!
-chat.copy=Copy to Clipboard
+chat.link.warning=§cNever open links from people that you don't trust!
+chat.copy=§bCopy to Clipboard
 
 menu.playdemo=§aPlay Demo World
 menu.resetdemo=§cReset Demo World
@@ -178,7 +178,7 @@ demo.help.fullWrapped=This demo will last 5 ingame days (about 1 hour and 40 min
 demo.help.buy=Purchase Now!
 demo.help.later=Continue Playing!
 
-connect.connecting=§bConnecting to the server...
+connect.connecting=§eConnecting to the server...
 connect.authorizing=§aLogging in...
 connect.failed=§cFailed to connect to the server
 
