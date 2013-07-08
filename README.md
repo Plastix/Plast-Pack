@@ -21,7 +21,7 @@ Special Thanks to:
 * [McSpider](https://oc.tc/McSpider): Camaraderie and awesome textures
 * [Freyr29](https://oc.tc/Freyr29): Trap chest textures
 * [Lzn02](http://www.minecraftforum.net/topic/1436016-): Some custom sounds
-* [i2](https//oc.tc/i2): Feedback and language file help
+* [i2](https://oc.tc/i2): Feedback and language file help
 
 Licensing:
 ------
