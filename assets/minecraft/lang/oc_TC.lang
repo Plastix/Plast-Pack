@@ -1,7 +1,6 @@
-
-language.name=English
-language.region=US
-language.code=en_US
+language.name=EN Plast
+language.region=TC
+language.code=oc_TC
 
 gui.done=§aDone
 gui.cancel=§cCancel
