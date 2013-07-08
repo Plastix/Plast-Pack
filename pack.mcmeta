@@ -2,5 +2,12 @@
   "pack": {
     "pack_format": 1,
     "description": "\u00A7ev1.9 \u00A7bfor Minecraft \u00A7c1.6.1\n\u00A7bby \u00A7aPlastix"
+  },
+  "language": {
+      "en_OC": {
+      "name": "\u00A7eEnglish",
+      "region": "\u00A7bColor\u00A7e",
+      "bidirectional": false
+     }
   }
 }
