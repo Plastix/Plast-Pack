@@ -148,7 +148,7 @@ multiplayer.player.left=%s left the game
 
 chat.cannotSend=§cCannot send chat message
 chat.type.text=<%s> %s
-chat.type.emote=* %s %s
+chat.type.emote=§e* §f%s %s
 chat.type.announcement=[%s] %s
 chat.type.admin=[%s: %s]
 chat.link.confirm=Are you sure you want to open the following website?
