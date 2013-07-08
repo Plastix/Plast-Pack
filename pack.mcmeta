@@ -1,6 +1,13 @@
 {
-  "pack": {
-    "pack_format": 1,
-    "description": "\u00A7ev1.9 \u00A7bfor Minecraft \u00A7c1.6.1\n\u00A7bby \u00A7aPlastix"
+  "pack":{
+    "pack_format":1,
+    "description":"\u00A7ev1.9 \u00A7bfor Minecraft \u00A7c1.6.2\n\u00A7bby \u00A7aPlastix"
+  },
+  "language":{
+    "oc_TC":{
+      "name":"EN Plast",
+      "region":"\u00A7eColor!\u00A7r",
+      "bidirectional":false
+    }
   }
 }
