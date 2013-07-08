@@ -5,6 +5,7 @@ V1.9.1
 ------
     - Decreased volume of portal sounds (Suggested by zZFireGuyZz!)
     - Added colored GUI lang file!
+    - Tweak selected GUIs
 
 V1.9
 ------
