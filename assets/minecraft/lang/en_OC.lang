@@ -22,7 +22,7 @@ translation.test.world=world
 
 menu.singleplayer=§aSingleplayer
 menu.multiplayer=§eMultiplayer
-menu.online=§5Minecraft Realms
+menu.online=§6Minecraft Realms
 menu.options=§6Options
 menu.quit=§6Quit Game
 menu.returnToMenu=§cSave and Quit to Title
@@ -80,7 +80,7 @@ gameMode.survival=§aSurvival Mode
 gameMode.creative=§bCreative Mode
 gameMode.adventure=§6Adventure Mode
 gameMode.hardcore=§cHardcore Mode!
-gameMode.changed=§cYour game mode has been updated
+gameMode.changed=§aYour game mode has been updated
 
 selectWorld.gameMode=§bGame Mode:
 selectWorld.gameMode.survival=§aSurvival
@@ -1340,19 +1340,19 @@ advMode.notAllowed=Must be an opped player in creative mode
 mco.title=Minecraft Realms
 mount.onboard=Press %1$s to dismount
 
-mco.selectServer.play=Play
-mco.selectServer.configure=Configure
-mco.selectServer.leave=Leave Realm
-mco.selectServer.create=Create Realm
-mco.selectServer.moreinfo=More Info
+mco.selectServer.play=§ePlay
+mco.selectServer.configure=§7Configure
+mco.selectServer.leave=§cLeave Realm
+mco.selectServer.create=§aCreate Realm
+mco.selectServer.moreinfo=§bMore Info
 
-mco.selectServer.expired=Expired Server
-mco.selectServer.open=Open Server
-mco.selectServer.closed=Closed Server
+mco.selectServer.expired=§cExpired Server
+mco.selectServer.open=§aOpen Server
+mco.selectServer.closed=§cClosed Server
 
-mco.selectServer.expires.days=Expires in %s days
-mco.selectServer.expires.day=Expires in a day
-mco.selectServer.expires.soon=Expires soon
+mco.selectServer.expires.days=§bExpires in %s days
+mco.selectServer.expires.day=§cExpires in a day
+mco.selectServer.expires.soon=§aExpires soon
 
 mco.configure.world.edit.title=Edit Realm
 
@@ -1361,14 +1361,14 @@ mco.configure.world.name=Name
 mco.configure.world.description=Description
 mco.configure.world.location=Location
 mco.configure.world.invited=Invited
-mco.configure.world.buttons.edit=Edit
-mco.configure.world.buttons.reset=Reset Realm
-mco.configure.world.buttons.done=Done
-mco.configure.world.buttons.delete=Delete
-mco.configure.world.buttons.open=Open Realm
-mco.configure.world.buttons.close=Close Realm
-mco.configure.world.buttons.invite=Invite
-mco.configure.world.buttons.uninvite=Uninvite
+mco.configure.world.buttons.edit=§7Edit
+mco.configure.world.buttons.reset=§cReset Realm
+mco.configure.world.buttons.done=§aDone
+mco.configure.world.buttons.delete=§cDelete
+mco.configure.world.buttons.open=§aOpen Realm
+mco.configure.world.buttons.close=§cClose Realm
+mco.configure.world.buttons.invite=§bInvite
+mco.configure.world.buttons.uninvite=§bUninvite
 mco.configure.world.buttons.backup=Backups
 mco.configure.world.buttons.subscription=Subscription
 mco.configure.world.invite.profile.name=Name
@@ -1386,7 +1386,7 @@ mco.create.world.wait=Creating the realm...
 mco.create.world.seed=Seed (Optional)
 
 mco.reset.world.title=Reset Realm
-mco.reset.world.warning=This will permanently delete your realm!
+mco.reset.world.warning=§cThis will permanently delete your realm!
 mco.reset.world.seed=Seed (Optional)
 mco.reset.world.resetting.screen.title=Resetting Realm...
 
@@ -1402,13 +1402,13 @@ mco.configure.world.reset.question.line2=Are you sure you want to do that?
 mco.configure.world.restore.question.line1=Your realm will be restored to a previous version
 mco.configure.world.restore.question.line2=Are you sure you want to do that?
 
-mco.connect.connecting=Connecting to the online server...
-mco.connect.authorizing=Logging in...
-mco.connect.failed=Failed to connect to the online server
+mco.connect.connecting=§eConnecting to the online server...
+mco.connect.authorizing=§aLogging in...
+mco.connect.failed=§cFailed to connect to the online server
 
 mco.create.world=Create
 
-mco.client.outdated.title=Client Outdated!
+mco.client.outdated.title=§cClient Outdated!
 mco.client.outdated.msg=Your client is outdated, please consider updating it to use Realms
 
 mco.backup.title=Backups
@@ -1416,16 +1416,16 @@ mco.backup.button.restore=Restore
 mco.backup.restoring=Restoring your realm
 
 mco.template.title=Realm Templates
-mco.template.button.select=Select
+mco.template.button.select=§aSelect
 mco.template.default.name=Select Template (Optional)
 mco.template.name=Template
 
-mco.invites.button.accept=Accept
-mco.invites.button.reject=Reject
+mco.invites.button.accept=§aAccept
+mco.invites.button.reject=§cReject
 mco.invites.title=Pending Invitations
 mco.invites.pending=New invitations!
 
-build.tooHigh=Height limit for building is %s blocks
+build.tooHigh=§cHeight limit for building is %s blocks
 
 attribute.modifier.plus.0=+%d %s
 attribute.modifier.plus.1=+%d%% %s
