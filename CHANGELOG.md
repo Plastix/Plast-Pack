@@ -4,6 +4,7 @@ Plast Pack Changelog
 V1.9.2
 ------
     -Added a new RFV3 panorama (Thanks zZFireGuyZz!)
+    -Colorized vanilla command outputs and usage
 
 V1.9.1
 ------
