@@ -1328,17 +1328,17 @@ itemGroup.inventory=§bSurvival Inventory
 inventory.binSlot=§cDestroy Item
 
 advMode.setCommand=Set Console Command for Block
-advMode.setCommand.success=Command set: %s
+advMode.setCommand.success=§aCommand set: §b%s
 advMode.command=Console Command
 advMode.nearestPlayer=Use "@p" to target nearest player
 advMode.randomPlayer=Use "@r" to target random player
 advMode.allPlayers=Use "@a" to target all players
 
-advMode.notEnabled=Command blocks are not enabled on this server
-advMode.notAllowed=Must be an opped player in creative mode
+advMode.notEnabled=§cCommand blocks are not enabled on this server
+advMode.notAllowed=§cMust be an opped player in creative mode
 
 mco.title=Minecraft Realms
-mount.onboard=Press %1$s to dismount
+mount.onboard=§bPress §e%1$s §bto dismount
 
 mco.selectServer.play=§ePlay
 mco.selectServer.configure=§7Configure
