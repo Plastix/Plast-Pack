@@ -1,6 +1,10 @@
 Plast Pack Changelog
 ======
 
+V1.9.2
+------
+    -Added a new RFV3 panorama (Thanks zZFireGuyZz!)
+
 V1.9.1
 ------
     - Decreased volume of portal sounds (Suggested by zZFireGuyZz!)
