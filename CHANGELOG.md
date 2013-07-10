@@ -5,6 +5,7 @@ V1.9.2
 ------
     -Added a new RFV3 panorama (Thanks zZFireGuyZz!)
     -Colorized vanilla command outputs and usage
+    -Renamed a bunch of items (Custom language file)
 
 V1.9.1
 ------
