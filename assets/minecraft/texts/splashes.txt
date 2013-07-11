@@ -100,7 +100,7 @@
 §b You'll be back for more!
 §b Join Plastix's MapDev server!
 §b New junior mods!
-§b Apple's Only!
+§b Apples Only!
 §b KNIFE!!
 §b Mumble party!
 §b If it compiles, ship it!
@@ -135,4 +135,8 @@
 §b Ping Hacks!
 §b Kaulaurs!
 §b Famous last words!
-
+§b Good gravey!
+§b Get loud!
+§b YES!
+§b Points! Points! Points!
+§b Can you type -?
