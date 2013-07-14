@@ -46,6 +46,7 @@
 §b Play Rage Quit
 §b >>> GOLD CORE MODE <<<
 §b >>> GLASS CORE MODE <<<
+§b >>> BEDROCK CORE MODE <<<
 §b Use Optifine!
 §b Birepnfg Argjbex
 §b Rush the objective!
