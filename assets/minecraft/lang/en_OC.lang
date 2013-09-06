@@ -147,10 +147,10 @@ multiplayer.player.joined=%s joined the game
 multiplayer.player.left=%s left the game
 
 chat.cannotSend=§cCannot send chat message
-chat.type.text=<%s> %s
+chat.type.text=<%s>: %s
 chat.type.emote=§e* §f%s %s
 chat.type.announcement=[%s] %s
-chat.type.admin=[%s: %s]
+chat.type.admin=§8[§r%s§8: §r%s§8]
 chat.link.confirm=Are you sure you want to open the following website?
 chat.link.warning=§cNever open links from people that you don't trust!
 chat.copy=§bCopy to Clipboard
