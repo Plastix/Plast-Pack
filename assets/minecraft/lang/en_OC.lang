@@ -884,7 +884,7 @@ deathScreen.hardcoreInfo=You cannot respawn in hardcore mode!
 deathScreen.title=You died!
 deathScreen.leaveServer=§cLeave server
 
-potion.effects.whenDrank=When Applied:
+potion.effects.whenDrank=§bWhen Applied:
 potion.empty=No Effects
 potion.moveSpeed=§aSpeed
 potion.moveSlowdown=§cSlowness
@@ -1438,12 +1438,12 @@ mco.invites.pending=New invitations!
 
 build.tooHigh=§cHeight limit for building is %s blocks
 
-attribute.modifier.plus.0=+%d %s
-attribute.modifier.plus.1=+%d%% %s
-attribute.modifier.plus.2=+%d%% %s
-attribute.modifier.take.0=-%d %s
-attribute.modifier.take.1=-%d%% %s
-attribute.modifier.take.2=-%d%% %s
+attribute.modifier.plus.0=§a§l+%d §7%s
+attribute.modifier.plus.1=§a§l+%d%% §7%s
+attribute.modifier.plus.2=§a§l+%d%% §7%s
+attribute.modifier.take.0=§c§l-%d §7%s
+attribute.modifier.take.1=§c§l-%d%% §7%s
+attribute.modifier.take.2=§c§l-%d%% §7%s
 
 attribute.name.horse.jumpStrength=Horse Jump Strength
 attribute.name.zombie.spawnReinforcements=Zombie Reinforcements
