@@ -1135,6 +1135,8 @@ commands.generic.double.tooSmall=The number you have entered (%.2f) is too small
 commands.generic.double.tooBig=The number you have entered (%.2f) is too big, it must be at most %.2f
 commands.generic.usage=§bUsage: §6%s
 
+commands.setidletimeout.usage=§b/setidletimeout §6<Minutes until kick>
+commands.setidletimeout.success=§aSuccessfully set the idle timeout to §b%d §aminutes.
 commands.xp.failure.widthdrawXp=Cannot give player negative experience points
 commands.xp.success=§aGiven §b%d §aexperience to §b%s
 commands.xp.success.levels=§aGiven §b%d §alevels to §b%s
