@@ -1354,7 +1354,7 @@ mco.title=Minecraft Realms
 mount.onboard=§bPress §e%1$s §bto dismount
 
 mco.selectServer.play=§ePlay
-mco.selectServer.configure=§7Configure
+mco.selectServer.configure=§6Configure
 mco.selectServer.leave=§cLeave Realm
 mco.selectServer.create=§aCreate Realm
 mco.selectServer.moreinfo=§bMore Info
