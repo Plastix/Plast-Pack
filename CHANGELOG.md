@@ -7,6 +7,7 @@ V1.9.2
     - Colorized vanilla command outputs and usage
     - Renamed a bunch of items (Custom language file)
     - Added new crit particle (Thanks legobmw99!) 
+    - Added "alpha style" grass, leaves, and flowers
 
 V1.9.1
 ------
