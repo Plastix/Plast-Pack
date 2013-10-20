@@ -46,7 +46,7 @@ V1.8
     - Added smoother comparator and repeater textures (Courtesy of McSpider)
     - Added rainbow colored enchanting glyphs
     - Tweaked bow tip sprite
-    - Added creeper face jack o' lanterns
+    - Added creeper face Jack O' Lanterns
     - Tweaked smooth sandstone texture
     - Added tweaked sandstone top texture
     - Added new trap chest texture (Thanks Freyr29!)
