@@ -1,6 +1,10 @@
 Plast Pack Changelog
 ======
 
+V1.9.3
+------
+    - Use natural textures for grass tops instead of CTM
+
 V1.9.2
 ------
     - Updated for Minecraft 1.7.2
