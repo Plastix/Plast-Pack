@@ -3,10 +3,14 @@ Plast Pack Changelog
 
 V1.9.2
 ------
+    - Updated for Minecraft 1.7.2
     - Added a new RFV3 panorama (Thanks zZFireGuyZz!)
     - Colorized vanilla command outputs and usage
     - Renamed a bunch of items (Custom language file)
-    - Added new crit particle (Thanks legobmw99!) 
+    - Added new crit particle (Thanks legobmw99!)
+    - Added cleaner textures for acacia and big oak wood planks
+    - Added clean stained glass
+    - Added tweaked acacia sapling sprite
 
 V1.9.1
 ------
