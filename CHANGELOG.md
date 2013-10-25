@@ -11,6 +11,7 @@ V1.9.2
     - Added cleaner textures for acacia and big oak wood planks
     - Added clean stained glass
     - Added tweaked acacia sapling sprite
+    - Tweaked 1.7 flower textures
 
 V1.9.1
 ------
