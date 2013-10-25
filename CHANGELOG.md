@@ -4,6 +4,7 @@ Plast Pack Changelog
 V1.9.3
 ------
     - Use natural textures for grass tops instead of CTM
+    - Added cleaner podzol texture
 
 V1.9.2
 ------
