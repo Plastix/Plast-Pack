@@ -1,0 +1,47 @@
+{
+  "ambient.weather.rain": {
+    "category": "weather",
+    "sounds": [
+      "ambient/weather/rain1",
+      "ambient/weather/rain2",
+      "ambient/weather/rain3",
+      "ambient/weather/rain4"
+    ]
+  },
+  "portal.portal": {
+    "category": "block",
+    "sounds": [
+      "portal/portal"
+    ]
+  },
+  "portal.travel": {
+    "category": "player",
+    "sounds": [
+      "portal/travel"
+    ]
+  },
+  "portal.trigger": {
+    "category": "block",
+    "sounds": [
+      "portal/trigger"
+    ]
+  },
+  "random.click": {
+    "category": "block",
+    "sounds": [
+      "random/click"
+    ]
+  },
+  "random.drink": {
+    "category": "player",
+    "sounds": [
+      "random/drink"
+    ]
+  },
+  "random.successful_hit": {
+    "category": "player",
+    "sounds": [
+      "random/successful_hit"
+    ]
+  }
+}
