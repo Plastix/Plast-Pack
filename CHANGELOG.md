@@ -5,6 +5,7 @@ V1.9.3
 ------
     - Use natural textures for grass tops instead of CTM
     - Added cleaner podzol texture
+    - Tweaked grass side texture to match the grass side overlay (Thanks Brottweiler!)
 
 V1.9.2
 ------
