@@ -10,6 +10,7 @@ V1.9.3
     - Added clean packed ice texture (Credit to three_two!)
     - Fixed bug in Achievements GUI for 1.7.2
     - Fixed grey pixel in dirt block textures (Thanks Ozillion!)
+    - Removed green hue from jungle log top (Thanks Ozillion!)
 
 V1.9.2
 ------
