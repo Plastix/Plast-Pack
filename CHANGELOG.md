@@ -8,6 +8,7 @@ V1.9.3
     - Tweaked grass side texture to match the grass side overlay (Thanks Brottweiler!)
     - Fix custom sounds (Thanks legobmw99!)
     - Added clean packed ice texture (Credit to three_two!)
+    - Fixed bug in Achievements GUI for 1.7.2
 
 V1.9.2
 ------
