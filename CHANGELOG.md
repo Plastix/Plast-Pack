@@ -11,6 +11,7 @@ V1.9.3
     - Fixed bug in Achievements GUI for 1.7.2
     - Fixed grey pixel in dirt block textures (Thanks Ozillion!)
     - Removed green hue from jungle log top (Thanks Ozillion!)
+    - Added better stained glass (Thanks Legobmw99!)
 
 V1.9.2
 ------
