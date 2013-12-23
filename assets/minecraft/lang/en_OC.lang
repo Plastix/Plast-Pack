@@ -20,6 +20,7 @@ translation.test.invalid2=hi %  s
 translation.test.args=%s %s
 translation.test.world=world
 
+menu.game=Game menu
 menu.singleplayer=§aSingleplayer
 menu.multiplayer=§eMultiplayer
 menu.online=§3Minecraft Realms
@@ -162,7 +163,10 @@ chat.copy=§bCopy to Clipboard
 chat.link.confirmTrusted=Do you want to open this link or copy it to your clipboard?
 chat.link.open=Open in browser
 
-$o=§aPlay Demo World
+chat.stream.text=(%s) <%s> %s
+chat.stream.emote=(%s) * %s %s
+
+menu.playdemo=§aPlay Demo World
 menu.resetdemo=§cReset Demo World
 
 demo.day.1=This demo will last five game days, do your best!
@@ -214,6 +218,8 @@ soundCategory.player=§bPlayers
 soundCategory.block=§bBlocks
 soundCategory.ambient=§bAmbient/Environment
 
+record.nowPlaying=Now playing: %s
+
 options.off=§cOFF
 options.on=§aON
 options.visible=§aShown
@@ -222,6 +228,7 @@ options.title=Options
 options.controls=§bControls
 options.video=§bVideo Settings
 options.language=§bLanguage
+options.stream=§bBroadcast Settings
 options.sounds=§bMusic & Sounds
 options.sounds.title=Music & Sound Options
 options.languageWarning=Language translations may not be 100% accurate
@@ -333,6 +340,38 @@ options.mipmapLevels=§bMipmap Levels
 options.anisotropicFiltering=§bAnisotropic Filtering
 options.forceUnicodeFont=§bForce Unicode Font
 
+options.stream.title=Twitch Broadcast Settings
+options.stream.bytesPerPixel=§bQuality
+options.stream.micVolumne=§bMic Volume
+options.stream.micToggleBehavior=§bPush To
+options.stream.mic_toggle.mute=§cMute
+options.stream.mic_toggle.talk=§aTalk
+options.stream.systemVolume=§bSystem Volume
+options.stream.kbps=§bBandwidth
+options.stream.fps=§bFramerate
+options.stream.sendMetadata=§bSend Metadata
+options.stream.compression=Compression
+options.stream.compression.low=§cLow
+options.stream.compression.medium=§6Medium
+options.stream.compression.high=§aHigh
+options.stream.estimation=§bEstimated resolution: %dx%d
+options.stream.changes=You may need to restart your stream for these changes to take place.
+options.stream.ingestSelection=Broadcast Server List
+options.stream.ingest.title=Twitch Broadcast Servers
+options.stream.ingest.reset=§cReset Preference
+options.stream.chat.title=Twitch Chat Settings
+options.stream.chat.enabled=§bEnable
+options.stream.chat.enabled.streaming=§bWhilst Streaming
+options.stream.chat.enabled.always=§aAlways
+options.stream.chat.enabled.never=§cNever
+options.stream.chat.userFilter=§bUser Filter
+options.stream.chat.userFilter.all=§bAll Viewers
+options.stream.chat.userFilter.subs=§bSubscribers
+options.stream.chat.userFilter.mods=§bModerators
+
+title.oldgl1=Old graphics card detected; this may prevent you from
+title.oldgl2=playing in the future as OpenGL 2.0 will be required.
+
 controls.title=Controls
 controls.reset=§cReset
 controls.resetAll=§cReset Keys
@@ -356,6 +395,7 @@ key.command=§bOpen Command
 key.screenshot=§bTake Screenshot
 key.togglePerspective=§bToggle Perspective
 key.smoothCamera=§bToggle Cinematic Camera
+key.fullscreen=§bToggle Fullscreen
 key.hotbar.1=§bHotbar Slot 1
 key.hotbar.2=§bHotbar Slot 2
 key.hotbar.3=§bHotbar Slot 3
@@ -365,6 +405,10 @@ key.hotbar.6=§bHotbar Slot 6
 key.hotbar.7=§bHotbar Slot 7
 key.hotbar.8=§bHotbar Slot 8
 key.hotbar.9=§bHotbar Slot 9
+key.streamStartStop=§bStart/Stop Stream
+key.streamPauseUnpause=§bPause/Unpause Stream
+key.streamCommercial=§bShow Stream Commercials
+key.streamToggleMic=§bPush To Talk/Mute
 
 key.categories.movement=Movement
 key.categories.misc=Miscellaneous
@@ -372,6 +416,9 @@ key.categories.multiplayer=Multiplayer
 key.categories.gameplay=Gameplay
 key.categories.ui=Game Interface
 key.categories.inventory=Inventory
+key.categories.stream=Streaming
+
+sign.edit=Edit sign message
 
 resourcePack.openFolder=§bOpen resource pack folder
 resourcePack.title=Select Resource Packs
@@ -1586,7 +1633,7 @@ mco.selectServer.configure=§6Configure
 mco.selectServer.leave=§cLeave Realm
 mco.selectServer.create=§aCreate Realm
 mco.selectServer.buy=§aBuy Realm
-mco.selectServer.moreinfo=§bMore Info
+mco.selectServer.moreinfo=§bWhat is Realms?
 
 mco.selectServer.expired=§cExpired Server
 mco.selectServer.open=§aOpen Server
@@ -1604,7 +1651,7 @@ mco.configure.world.name=Name
 mco.configure.world.description=Description
 mco.configure.world.location=Location
 mco.configure.world.invited=Invited
-mco.configure.world.buttons.edit=§7Edit
+mco.configure.world.buttons.edit=§7Edit Settings
 mco.configure.world.buttons.reset=§cReset Realm
 mco.configure.world.buttons.done=§aDone
 mco.configure.world.buttons.delete=§cDelete
@@ -1622,6 +1669,7 @@ mco.configure.world.subscription.title=Subscription Info
 mco.configure.world.subscription.daysleft=Days Left
 mco.configure.world.subscription.start=Start Date
 mco.configure.world.subscription.extend=Extend Subscription
+mco.configure.world.subscription.extendHere=Extend subscription here:
 
 mco.create.world.location.title=Locations
 mco.create.world.location.warning=You may not get the exact location you select
@@ -1695,3 +1743,55 @@ attribute.name.generic.attackDamage=Attack Damage
 
 screenshot.success=§aSaved screenshot as §b%s
 screenshot.failure=Couldn't save screenshot: %s
+
+stream.user.mode.moderator=Moderator
+stream.user.mode.moderator.self=Moderator on your channel
+stream.user.mode.moderator.other=Moderator on %s's channel
+stream.user.mode.broadcaster=Broadcaster
+stream.user.mode.broadcaster.self=Broadcaster (You!)
+stream.user.mode.broadcaster.other=Broadcaster
+stream.user.mode.administrator=Twitch Administrator
+stream.user.mode.staff=Twitch Staff
+stream.user.mode.banned=Banned
+stream.user.mode.banned.self=Banned on your channel
+stream.user.mode.banned.other=Banned on %s's channel
+stream.user.subscription.subscriber=Subscriber
+stream.user.subscription.subscriber.self=Subscriber to your channel
+stream.user.subscription.subscriber.other=Subscriber to %s's channel
+stream.user.subscription.turbo=Twitch Turbo
+
+stream.unavailable.title=Twitch Broadcasting Unavailable
+stream.unavailable.report_to_mojang=Report to Mojang
+
+stream.unavailable.account_not_bound=Before you can broadcast Minecraft through Twitch, you will need to link your Twitch account on mojang.com. Would you like to do that now?
+stream.unavailable.account_not_bound.okay=Link Accounts
+stream.unavailable.account_not_migrated=Before you can broadcast Minecraft through Twitch, you will need to migrate your Minecraft account to a Mojang account. Would you like to do that now?
+stream.unavailable.account_not_migrated.okay=Migrate Account
+stream.unavailable.failed_auth=Authentication to Twitch failed. Please go to mojang.com and rebind your Twitch account.
+stream.unavailable.failed_auth.okay=Rebind Accounts
+stream.unavailable.failed_auth_error=Unable to authenticate to Twitch. Please try again later.
+stream.unavailable.initialization_failure=Unable to initialize the Twitch SDK.
+stream.unavailable.initialization_failure.extra=(Reason: %s)
+stream.unavailable.library_arch_mismatch=The custom java version used to launch Minecraft has a different architecture than the one used to run the launcher. Please make sure these are the same, either 32-bit or 64-bit for both.
+stream.unavailable.library_failure=Unable to load the libraries needed for the integrated Twitch broadcasting service.
+stream.unavailable.no_fbo=Your video card needs to support at least OpenGL version 3.0 or support Framebuffer Objects via an extension to use the integrated Twitch broadcasting.
+stream.unavailable.no_fbo.version=You are currently using: %s
+stream.unavailable.no_fbo.blend=Separate blending support via EXT is: %s
+stream.unavailable.no_fbo.arb=Framebuffer object support via ARB is: %s
+stream.unavailable.no_fbo.ext=Framebuffer object support via EXT is: %s
+stream.unavailable.not_supported.windows=Unfortunately the integrated Twitch broadcasting requires a newer version of Windows than you are on. You must have at least Windows Vista or newer.
+stream.unavailable.not_supported.mac=Unfortunately the integrated Twitch broadcasting on Mac requires a version of OSX newer than the one you are on. You must use 10.7 (Mac OS X Lion) or newer to be able to use this service. Would you like to visit apple.com to learn about upgrading?
+stream.unavailable.not_supported.mac.okay=Upgrade
+stream.unavailable.not_supported.other=Unfortunately the integrated Twitch broadcasting service requires Windows (Vista or newer) or Mac OS X (10.7/Lion or newer)
+stream.unavailable.unknown=Unfortunately you cannot broadcast to Twitch at this time. And we don't know why :'(
+stream.unavailable.unknown.chat=Could not start stream: %s
+
+stream.unavailable.soundflower.chat=Soundflower is required to be able to stream on Mac. %s
+stream.unavailable.soundflower.chat.link=Please click here to install it.
+
+stream.userinfo.chatTooltip=Click to manage user
+stream.userinfo.timeout=Timeout
+stream.userinfo.ban=Ban
+stream.userinfo.unban=Unban
+stream.userinfo.mod=Promote to Moderator
+stream.userinfo.unmod=Demote from Moderator
