@@ -1,4 +1,3 @@
-
 language.name=English
 language.region=US
 language.code=en_OC
@@ -888,7 +887,7 @@ item.shears.name=Shears
 item.rottenFlesh.name=Rotten Flesh
 item.enderPearl.name=Ender Pearl
 item.blazeRod.name=Blaze Rod
-item.ghastTear.name=Ghast Tear
+item.ghastTear.name=Raindrop
 item.netherStalkSeeds.name=Nether Wart
 item.potion.name=Potion
 item.emptyPotion.name=Water Bottle
