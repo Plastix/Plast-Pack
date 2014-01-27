@@ -13,6 +13,7 @@ V1.9.3
     - Removed green hue from jungle log top (Thanks Ozillion!)
     - Added better stained glass (Thanks Legobmw99!)
     - Updated Custom Language file for 1.7.4
+    - Added CTM for stained glass
 
 V1.9.2
 ------
