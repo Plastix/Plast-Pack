@@ -15,6 +15,8 @@ V1.9.3
     - Updated Custom Language file for 1.7.4
     - Added CTM for stained glass
     - Added tweaked lead texture (Thanks McSpider!)
+    - Tweaked redstone, lapis, and coal block textures
+    - Tweaked map item sprite
 
 V1.9.2
 ------
