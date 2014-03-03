@@ -17,6 +17,7 @@ V1.9.3
     - Added tweaked lead texture (Thanks McSpider!)
     - Tweaked redstone, lapis, and coal block textures
     - Tweaked map item sprite
+    - Added stone brick styled sandstone
 
 V1.9.2
 ------
