@@ -18,6 +18,7 @@ V1.9.3
     - Tweaked redstone, lapis, and coal block textures
     - Tweaked map item sprite
     - Added stone brick styled sandstone
+    - Added better double tall grass texture (Thanks Betongmus!)
 
 V1.9.2
 ------
