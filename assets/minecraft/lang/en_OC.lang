@@ -132,6 +132,10 @@ addServer.enterName=Server Name
 addServer.enterIp=Server Address
 addServer.add=§aDone
 addServer.hideAddress=§bHide Address
+addServer.resourcePack=Server Resource Packs
+addServer.resourcePack.enabled=§aEnabled
+addServer.resourcePack.disabled=§cDisabled
+addServer.resourcePack.prompt=Prompt
 lanServer.title=LAN World
 lanServer.scanning=§bScanning for games on your local network
 lanServer.start=§aStart LAN World
@@ -149,6 +153,7 @@ multiplayer.downloadingTerrain=§aDownloading terrain
 multiplayer.downloadingStats=§aDownloading statistics & achievements...
 multiplayer.stopSleeping=§cLeave Bed
 multiplayer.player.joined=%s joined the game
+multiplayer.player.joined.renamed=%s (formerly known as %s) joined the game
 multiplayer.player.left=%s left the game
 
 chat.cannotSend=§cCannot send chat message
@@ -326,7 +331,6 @@ options.chat.width=§bWidth
 options.chat.height.focused=§bFocused Height
 options.chat.height.unfocused=§bUnfocused Height
 options.showCape=§bShow Cape
-options.serverTextures=§bServer Textures
 options.snooper=§bAllow Snooper
 options.snooper.view=§bSnooper Settings
 options.snooper.title=Machine Specs Collection
@@ -1435,13 +1439,17 @@ commands.kick.success=§aKicked §b%s §afrom the game
 commands.kick.success.reason=§aKicked §b%s §afrom the game: §b'%s'
 commands.kick.usage=§b/kick §6<player> [reason ...]
 commands.op.success=§aOpped §b%s
+commands.op.failed=Could not op %s
 commands.op.usage=§b/op §6<player>
 commands.deop.success=§aDe-opped §b%s
+commands.deop.failed=Could not de-op %s
 commands.deop.usage=§b/deop §6<player>
 commands.say.usage=§b/say §6<message ...>
 commands.ban.success=§aBanned player §b%s
+commands.ban.failed=Could not ban player %s
 commands.ban.usage=§b/ban §6<name> [reason ...]
 commands.unban.success=§aUnbanned player §b%s
+commands.unban.failed=Could not unban player %s
 commands.unban.usage=§b/pardon §6<name>
 commands.banip.invalid=You have entered an invalid IP address or a player that is not online
 commands.banip.success=§aBanned IP address §b%s
@@ -1471,8 +1479,10 @@ commands.whitelist.enabled=§aTurned on the whitelist
 commands.whitelist.disabled=§aTurned off the whitelist
 commands.whitelist.reloaded=§aReloaded the whitelist
 commands.whitelist.add.success=§aAdded §b%s §ato the whitelist
+commands.whitelist.add.failed=Could not add %s to the whitelist
 commands.whitelist.add.usage=§b/whitelist add §6<player>
 commands.whitelist.remove.success=§aRemoved §b%s §afrom the whitelist
+commands.whitelist.remove.failed=Could not remove %s from the whitelist
 commands.whitelist.remove.usage=§b/whitelist remove §6<player>
 commands.whitelist.usage=§b/whitelist §6<on|off|list|add|remove|reload>
 commands.scoreboard.usage=§b/scoreboard §6<objectives|players|teams>
@@ -1640,6 +1650,12 @@ mco.selectServer.open=§aOpen Server
 mco.selectServer.closed=§cClosed Server
 mco.selectServer.locked=§cLocked Server
 
+mco.selectServer.openserver=§aOpen Server
+mco.selectServer.closeserver=§bClose Server
+
+mco.selectServer.minigame=Mini Game:
+mco.selectServer.uninitialized=§aClick to Create Realm!
+
 mco.selectServer.expires.days=§bExpires in %s days
 mco.selectServer.expires.day=§cExpires in a day
 mco.selectServer.expires.soon=§aExpires soon
@@ -1661,12 +1677,21 @@ mco.configure.world.buttons.invite=§bInvite
 mco.configure.world.buttons.uninvite=§bUninvite
 mco.configure.world.buttons.backup=Backups
 mco.configure.world.buttons.subscription=Subscription
+mco.configure.world.buttons.startMiniGame=Switch to Mini Game
+mco.configure.world.buttons.modifyMiniGame=Modify Mini Game
+mco.configure.world.buttons.op=Op
+mco.configure.world.buttons.deop=Deop
 mco.configure.world.invite.profile.name=Name
 mco.configure.world.uninvite.question=Are you sure that you want to uninvite
 mco.configure.world.status=Status
+mco.configure.world.invites.ops.tooltip=Operator
+mco.configure.world.invites.normal.tooltip=Normal user
+mco.configure.world.invites.remove.tooltip=Remove
 
 mco.configure.world.subscription.title=Subscription Info
 mco.configure.world.subscription.daysleft=Days Left
+mco.configure.world.subscription.recurring.daysleft=Renewed automatically in
+mco.configure.world.subscription.less_than_a_day=less than a day
 mco.configure.world.subscription.start=Start Date
 mco.configure.world.subscription.extend=Extend Subscription
 mco.configure.world.subscription.extendHere=Extend subscription here:
@@ -1681,6 +1706,24 @@ mco.reset.world.warning=§cThis will permanently delete your realm!
 mco.reset.world.seed=Seed (Optional)
 mco.reset.world.resetting.screen.title=Resetting Realm...
 
+
+mco.minigame.world.title=Switch Realm to Mini Game
+mco.minigame.world.info1=This will temporarily replace your world with a mini game!
+mco.minigame.world.info2=You can later return to your original world without losing anything.
+mco.minigame.world.selected=Selected mini game:
+mco.minigame.world.noSelection=§ePlease make a selection
+mco.minigame.world.startButton=§aSwitch
+mco.minigame.world.starting.screen.title=§eStarting Mini Game...
+mco.minigame.world.changeButton=§6Select Another Mini Game
+mco.minigame.world.stopButton=§cEnd Mini Game
+mco.minigame.world.modify.title=§bModify Mini Game
+mco.minigame.world.modify.new=§bSelect another mini game?
+mco.minigame.world.modify.end=§cEnd the mini game and restore your Realm?
+
+mco.minigame.world.restore.question.line1=The mini game will end and your Realm will be restored.
+mco.minigame.world.restore.question.line2=Are you sure you want to do this?
+mco.minigame.world.restore=Ending Mini Game...
+
 mco.configure.world.close.question.line1=Your realm will become unavailable.
 mco.configure.world.close.question.line2=Are you sure you want to do that?
 
@@ -1690,7 +1733,7 @@ mco.configure.world.leave.question.line2=Are you sure you want to do that?
 mco.configure.world.reset.question.line1=Your realm will be regenerated and your current realm will be lost
 mco.configure.world.reset.question.line2=Are you sure you want to do that?
 
-mco.configure.world.restore.question.line1=Your realm will be restored to date
+mco.configure.world.restore.question.line1=Your realm will be restored to date '%s' (%s)
 mco.configure.world.restore.question.line2=Are you sure you want to do that?
 
 mco.configure.world.restore.download.question.line1=You will be redirected to your default browser to download your world map.
@@ -1712,9 +1755,11 @@ mco.backup.title=Backups
 mco.backup.button.restore=Restore
 mco.backup.restoring=Restoring your realm
 mco.backup.button.download=Download Latest
+mco.backup.changes.tooltip=Changes
 
 mco.template.title=Realm Templates
 mco.template.button.select=§aSelect
+mco.template.title.minigame=Realm Mini Games
 mco.template.default.name=Select Template (Optional)
 mco.template.name=Template
 
@@ -1762,6 +1807,8 @@ stream.user.subscription.turbo=Twitch Turbo
 
 stream.unavailable.title=Twitch Broadcasting Unavailable
 stream.unavailable.report_to_mojang=Report to Mojang
+
+stream.confirm_start=§eAre you sure you want to start broadcasting?
 
 stream.unavailable.account_not_bound=Before you can broadcast Minecraft through Twitch, you will need to link your Twitch account on mojang.com. Would you like to do that now?
 stream.unavailable.account_not_bound.okay=Link Accounts
