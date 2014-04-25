@@ -19,8 +19,6 @@ V1.9.3
     - Tweaked map item sprite
     - Added stone brick styled sandstone
     - Added better double tall grass texture (Thanks Betongmus!)
-    - Tweaked Podzol texture
-    - Added Podzol to natural textures config
 
     - Added more translucent slime blocks
     - Added matching wet sponge texture
@@ -40,6 +38,8 @@ V1.9.3
     - Tweaked prismarine brick texture
     - Tweaked dark prismarine texture
     - Added matching door textures for new wooden doors
+    - Update Creative Commons license to 4.0
+
 
 V1.9.2
 ------
