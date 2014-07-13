@@ -19,6 +19,7 @@ V1.9.3
     - Tweaked map item sprite
     - Added stone brick styled sandstone
     - Added better double tall grass texture (Thanks Betongmus!)
+    - Tweaked Podzol texture
 
 V1.9.2
 ------
