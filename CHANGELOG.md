@@ -20,6 +20,7 @@ V1.9.3
     - Added stone brick styled sandstone
     - Added better double tall grass texture (Thanks Betongmus!)
     - Tweaked Podzol texture
+    - Added Podzol to natural textures config
 
 V1.9.2
 ------
