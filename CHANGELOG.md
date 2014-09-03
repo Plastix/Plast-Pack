@@ -25,6 +25,7 @@ V1.9.3
     - Added more translucent slime blocks
     - Added matching wet sponge texture
     - Added matching iron trapdoor texture
+    - Updated enchanting table GUI for 1.8
 
 V1.9.2
 ------
