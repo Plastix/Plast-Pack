@@ -22,7 +22,8 @@ V1.9.3
     - Tweaked Podzol texture
     - Added Podzol to natural textures config
 
-    -Added more translucent slime blocks
+    - Added more translucent slime blocks
+    - Added matching wet sponge texture
 
 V1.9.2
 ------
