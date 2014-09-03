@@ -22,6 +22,8 @@ V1.9.3
     - Tweaked Podzol texture
     - Added Podzol to natural textures config
 
+    -Added more translucent slime blocks
+
 V1.9.2
 ------
     - Updated for Minecraft 1.7.2
