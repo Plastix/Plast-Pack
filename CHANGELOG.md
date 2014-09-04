@@ -28,6 +28,7 @@ V1.9.3
     - Updated enchanting table GUI for 1.8
     - Used the same dirt texture for coarse dirt
     - Added tweaked red sandstone varieties
+    - Added matching inverted daylight sensor texture
 
 V1.9.2
 ------
