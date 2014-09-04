@@ -39,6 +39,7 @@ V1.9.3
     - Tweaked prismarine texture
     - Tweaked prismarine brick texture
     - Tweaked dark prismarine texture
+    - Added matching door textures for new wooden doors
 
 V1.9.2
 ------
