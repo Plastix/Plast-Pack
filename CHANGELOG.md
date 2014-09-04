@@ -34,6 +34,7 @@ V1.9.3
     - Added tweaked empty glass bottle sprite
     - Added new prismarine crystal sprite
     - Tweaked rabbit stew sprite
+    - Add custom granite, diorite, and andesite textures
 
 V1.9.2
 ------
