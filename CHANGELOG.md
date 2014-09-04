@@ -33,6 +33,7 @@ V1.9.3
     - Replaced Alex texture with Steve
     - Added tweaked empty glass bottle sprite
     - Added new prismarine crystal sprite
+    - Tweaked rabbit stew sprite
 
 V1.9.2
 ------
