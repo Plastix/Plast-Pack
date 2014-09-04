@@ -30,6 +30,7 @@ V1.9.3
     - Added tweaked red sandstone varieties
     - Added matching inverted daylight sensor texture
     - Added tweaked armor stand texture
+    - Replaced Alex texture with Steve
 
 V1.9.2
 ------
