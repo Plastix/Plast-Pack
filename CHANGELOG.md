@@ -36,6 +36,7 @@ V1.9.3
     - Tweaked rabbit stew sprite
     - Add custom granite, diorite, and andesite textures
     - Removed animation from sea lanterns
+    - Tweaked prismarine texture
 
 V1.9.2
 ------
