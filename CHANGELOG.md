@@ -29,6 +29,7 @@ V1.9.3
     - Used the same dirt texture for coarse dirt
     - Added tweaked red sandstone varieties
     - Added matching inverted daylight sensor texture
+    - Added tweaked armor stand texture
 
 V1.9.2
 ------
