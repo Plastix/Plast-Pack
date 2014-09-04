@@ -38,6 +38,7 @@ V1.9.3
     - Removed animation from sea lanterns
     - Tweaked prismarine texture
     - Tweaked prismarine brick texture
+    - Tweaked dark prismarine texture
 
 V1.9.2
 ------
