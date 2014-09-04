@@ -19,6 +19,7 @@ V1.9.3
     - Tweaked map item sprite
     - Added stone brick styled sandstone
     - Added better double tall grass texture (Thanks Betongmus!)
+    - Update Creative Commons license to 4.0
 
     - Added more translucent slime blocks
     - Added matching wet sponge texture
