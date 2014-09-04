@@ -37,6 +37,7 @@ V1.9.3
     - Add custom granite, diorite, and andesite textures
     - Removed animation from sea lanterns
     - Tweaked prismarine texture
+    - Tweaked prismarine brick texture
 
 V1.9.2
 ------
