@@ -26,6 +26,7 @@ V1.9.3
     - Added matching wet sponge texture
     - Added matching iron trapdoor texture
     - Updated enchanting table GUI for 1.8
+    - Used the same dirt texture for coarse dirt
 
 V1.9.2
 ------
