@@ -31,6 +31,7 @@ V1.9.3
     - Added matching inverted daylight sensor texture
     - Added tweaked armor stand texture
     - Replaced Alex texture with Steve
+    - Added tweaked empty glass bottle sprite
 
 V1.9.2
 ------
