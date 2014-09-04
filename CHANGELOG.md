@@ -32,6 +32,7 @@ V1.9.3
     - Added tweaked armor stand texture
     - Replaced Alex texture with Steve
     - Added tweaked empty glass bottle sprite
+    - Added new prismarine crystal sprite
 
 V1.9.2
 ------
