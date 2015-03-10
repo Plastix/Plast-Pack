@@ -39,6 +39,7 @@ V1.9.3
     - Tweaked dark prismarine texture
     - Added matching door textures for new wooden doors
     - Update Creative Commons license to 4.0
+    - Added new barrier block particle sprite
 
 
 V1.9.2
