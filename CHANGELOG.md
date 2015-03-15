@@ -42,6 +42,7 @@ V1.9.3
     - Added new barrier block particle sprite
     - Tweaked gravel texture
     - Tweaked helmet sprites
+    - Tweaked slime ball sprite to be slightly transparent
 
 
 V1.9.2
