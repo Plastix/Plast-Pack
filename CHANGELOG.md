@@ -12,7 +12,6 @@ V1.9.3
     - Fixed grey pixel in dirt block textures (Thanks Ozillion!)
     - Removed green hue from jungle log top (Thanks Ozillion!)
     - Added better stained glass (Thanks Legobmw99!)
-    - Updated Custom Language file for 1.7.4
     - Added CTM for stained glass
     - Added tweaked lead texture (Thanks McSpider!)
     - Tweaked redstone, lapis, and coal block textures
@@ -43,6 +42,7 @@ V1.9.3
     - Tweaked gravel texture
     - Tweaked helmet sprites
     - Tweaked slime ball sprite to be slightly transparent
+    - Updated Custom Language file for 1.8.3
 
 
 V1.9.2
