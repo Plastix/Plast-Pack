@@ -41,6 +41,7 @@ V1.9.3
     - Update Creative Commons license to 4.0
     - Added new barrier block particle sprite
     - Tweaked gravel texture
+    - Tweaked helmet sprites
 
 
 V1.9.2
