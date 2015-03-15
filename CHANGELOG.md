@@ -40,6 +40,7 @@ V1.9.3
     - Added matching door textures for new wooden doors
     - Update Creative Commons license to 4.0
     - Added new barrier block particle sprite
+    - Tweaked gravel texture
 
 
 V1.9.2
