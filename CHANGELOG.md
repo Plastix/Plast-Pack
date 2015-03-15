@@ -1,8 +1,9 @@
 Plast Pack Changelog
 ======
 
-V1.9.3
+V1.10.0
 ------
+    - Updated for Minecraft 1.8.x
     - Use natural textures for grass tops instead of CTM
     - Added cleaner podzol texture
     - Tweaked grass side texture to match the grass side overlay (Thanks Brottweiler!)
@@ -18,7 +19,6 @@ V1.9.3
     - Tweaked map item sprite
     - Added stone brick styled sandstone
     - Added better double tall grass texture (Thanks Betongmus!)
-
     - Added more translucent slime blocks
     - Added matching wet sponge texture
     - Added matching iron trapdoor texture
