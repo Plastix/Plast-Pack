@@ -5,6 +5,7 @@ V1.10.1
 ------
     - Added custom world difficulty lock icons
     - Added matching rabbit hide sprite
+    - Tweaked GUI to make it more minimal
 
 V1.10.0
 ------
