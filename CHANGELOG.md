@@ -4,6 +4,7 @@ Plast Pack Changelog
 V1.10.1
 ------
     - Added custom world difficulty lock icons
+    - Added matching rabbit hide sprite
 
 V1.10.0
 ------
