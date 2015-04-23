@@ -2,7 +2,7 @@ Plast Pack
 ==========
 
 >A PVP customized version of the default Minecraft resource pack. Made for [oc.tc](https://oc.tc/)! Vivid colors and smooth textures!
- 
+
 Supports Optifine/MCPatcher features such as *Connected Textures*, *Custom Colors*, and *Natural Textures*.
 
 The full Changelog is available [here](https://github.com/Plastix/Plast-Pack/blob/master/CHANGELOG.md)!
@@ -22,6 +22,7 @@ Special Thanks to:
 * [Freyr29](https://oc.tc/Freyr29): Trap chest textures
 * [Lzn02](http://www.minecraftforum.net/topic/1436016-): Some custom sounds
 * [i2](https://oc.tc/i2): Feedback and language file help
+* [Brottweiler](https://github.com/Brottweiler): Various fixes and custom textures
 
 Licensing:
 ------
