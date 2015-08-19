@@ -8,6 +8,7 @@ V1.10.1
     - Tweaked GUI to make it more minimal
     - Tweaked armor, heart, and food bars
     - Tweaked granite, diorite, and andesite textures
+    - Tweaked netherrak texture
 
 V1.10.0
 ------
