@@ -7,6 +7,7 @@ V1.10.1
     - Added matching rabbit hide sprite
     - Tweaked GUI to make it more minimal
     - Tweaked armor, heart, and food bars
+    - Tweaked granite, diorite, and andesite textures
 
 V1.10.0
 ------
