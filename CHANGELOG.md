@@ -1,6 +1,10 @@
 Plast Pack Changelog
 ======
 
+V1.10.2
+------
+    - Updated for Minecraft 1.9.x (1.9 compability)
+
 V1.10.1
 ------
     - Added custom world difficulty lock icons
