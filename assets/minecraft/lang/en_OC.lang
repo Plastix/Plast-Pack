@@ -1308,10 +1308,10 @@ effect.wither=§cWither
 effect.healthBoost=§aHealth Boost
 effect.absorption=§aAbsorption
 effect.saturation=§aSaturation
-effect.glowing=Glowing
-effect.luck=Luck
-effect.unluck=Bad Luck
-effect.levitation=Levitation
+effect.glowing=§aGlowing
+effect.luck=§aLuck
+effect.unluck=§cBad Luck
+effect.levitation=§cLevitation
 
 tipped_arrow.effect.empty=Tipped Arrow
 tipped_arrow.effect.water=Tipped Arrow
