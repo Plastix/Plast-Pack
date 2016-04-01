@@ -4,6 +4,7 @@ Plast Pack Changelog
 V1.10.2
 ------
     - Updated for Minecraft 1.9.x (1.9 compability)
+    - Tweaked tipped arrow texture
 
 V1.10.1
 ------
