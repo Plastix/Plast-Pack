@@ -364,7 +364,7 @@ options.guiScale.large=§aLarge
 options.advancedOpengl=§bAdvanced OpenGL
 options.fboEnable=Enable FBOs
 options.postProcessEnable=Enable Post-Processing
-options.renderClouds=Clouds
+options.renderClouds=§bClouds
 options.qualityButton=Video Quality Settings...
 options.qualityVideoTitle=Video Quality Settings
 options.performanceButton=Video Performance Settings...
@@ -416,11 +416,11 @@ options.entityShadows=§bEntity Shadows
 options.mainHand=Main Hand
 options.mainHand.left=Left
 options.mainHand.right=Right
-options.attackIndicator=Attack Indicator
-options.attack.crosshair=Crosshair
-options.attack.hotbar=Hotbar
+options.attackIndicator=§bAttack Indicator
+options.attack.crosshair=§6Crosshair
+options.attack.hotbar=§aHotbar
 options.showSubtitles=§bShow Subtitles
-options.realmsNotifications=Realms Notifications
+options.realmsNotifications=§bRealms Notifications
 
 options.mipmapLevels=Mipmap Levels
 options.forceUnicodeFont=Force Unicode Font
@@ -2027,12 +2027,12 @@ mount.onboard=§bPress §e%1$s §bto dismount
 
 build.tooHigh=§cHeight limit for building is %s blocks
 
-item.modifiers.mainhand=When in main hand:
-item.modifiers.offhand=When in off hand:
-item.modifiers.feet=When on feet:
-item.modifiers.legs=When on legs:
-item.modifiers.chest=When on body:
-item.modifiers.head=When on head:
+item.modifiers.mainhand=§9When in main hand:
+item.modifiers.offhand=§9When in off hand:
+item.modifiers.feet=§9When on feet:
+item.modifiers.legs=§9When on legs:
+item.modifiers.chest=§9When on body:
+item.modifiers.head=§9When on head:
 
 attribute.modifier.plus.0=§a§l+%d §7%s
 attribute.modifier.plus.1=§a§l+%d%% §7%s
@@ -2040,9 +2040,9 @@ attribute.modifier.plus.2=§a§l+%d%% §7%s
 attribute.modifier.take.0=§c§l-%d §7%s
 attribute.modifier.take.1=§c§l-%d%% §7%s
 attribute.modifier.take.2=§c§l-%d%% §7%s
-attribute.modifier.equals.0=%d %s
-attribute.modifier.equals.1=%d%% %s
-attribute.modifier.equals.2=%d%% %s
+attribute.modifier.equals.0=§b§l%d §7%s
+attribute.modifier.equals.1=§b§l%d%% §7%s
+attribute.modifier.equals.2=§b§l%d%% §7%s
 
 attribute.name.horse.jumpStrength=Horse Jump Strength
 attribute.name.zombie.spawnReinforcements=Zombie Reinforcements
@@ -2056,7 +2056,7 @@ attribute.name.generic.luck=Luck
 attribute.name.generic.armor=Armor
 
 screenshot.success=§aSaved screenshot as §b%s
-screenshot.failure=Couldn't save screenshot: %s
+screenshot.failure=§cCouldn't save screenshot: %s
 
 item.banner.black.name=Black Banner
 item.banner.red.name=Red Banner
