@@ -413,17 +413,17 @@ options.vbo=§bUse VBOs
 options.touchscreen=§bTouchscreen Mode
 options.reducedDebugInfo=§bReduced Debug Info
 options.entityShadows=§bEntity Shadows
-options.mainHand=Main Hand
-options.mainHand.left=Left
-options.mainHand.right=Right
+options.mainHand=§bMain Hand
+options.mainHand.left=§aLeft
+options.mainHand.right=§6Right
 options.attackIndicator=§bAttack Indicator
 options.attack.crosshair=§6Crosshair
 options.attack.hotbar=§aHotbar
 options.showSubtitles=§bShow Subtitles
 options.realmsNotifications=§bRealms Notifications
 
-options.mipmapLevels=Mipmap Levels
-options.forceUnicodeFont=Force Unicode Font
+options.mipmapLevels=§bMipmap Levels
+options.forceUnicodeFont=§bForce Unicode Font
 
 difficulty.lock.title=Lock World Difficulty
 difficulty.lock.question=Are you sure you want to lock the difficulty of this world? This will set this world to always be %1$s, and you will never be able to change that again.
