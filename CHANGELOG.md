@@ -1,5 +1,10 @@
 Plast Pack Changelog
 ======
+V1.11
+------
+    - Updated for Minecraft 1.10.x
+    - Add structure void item that matches the barrier item
+    - Tweaked Magma block
 
 V1.10.2
 ------
