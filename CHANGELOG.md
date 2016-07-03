@@ -5,6 +5,8 @@ V1.11.1
     - Tweak spectral arrow texture to match other arrows; removing ugly fat border, change colors
     - Add new projectiles folder with arrow entity textures. Old `arrow.png` no longer used
     - Add and tweak Optifine language file, to get matching colored GUI text
+    - Fix an issue where the upper part of birch door was off colored
+    - Fix an issue with glass panes where the inner corner was broken
 
 V1.11
 ------
