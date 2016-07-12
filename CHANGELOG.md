@@ -7,6 +7,8 @@ V1.11.1
     - Add and tweak Optifine language file, to get matching colored GUI text
     - Fix an issue where the upper part of birch door was off colored
     - Fix an issue with glass panes where the inner corner was broken
+    - Remove shovel from boat sprites, looks like pre-1.9 boat
+    - Update smooth boat texture for 1.9 boats
 
 V1.11
 ------
