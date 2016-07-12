@@ -9,6 +9,7 @@ V1.11.1
     - Fix an issue with glass panes where the inner corner was broken
     - Remove shovel from boat sprites, looks like pre-1.9 boat
     - Update smooth boat texture for 1.9 boats
+    - Update command blocks to 1.9 format
 
 V1.11
 ------
