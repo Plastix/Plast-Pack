@@ -1,6 +1,6 @@
 Plast Pack Changelog
 ======
-V1.11.1
+V1.12
 -----
     - Tweak spectral arrow texture to match other arrows; removing ugly fat border, change colors
     - Add new projectiles folder with arrow entity textures. Old `arrow.png` no longer used
