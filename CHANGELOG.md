@@ -2,19 +2,19 @@ Plast Pack Changelog
 ======
 V1.12
 -----
-    - Tweak spectral arrow texture to match other arrows; removing ugly fat border, change colors
-    - Add new projectiles folder with arrow entity textures. Old `arrow.png` no longer used
-    - Add and tweak Optifine language file, to get matching colored GUI text
-    - Fix an issue where the upper part of birch door was off colored
-    - Fix an issue with glass panes where the inner corner was broken
-    - Remove shovel from boat sprites, looks like pre-1.9 boat
-    - Update smooth boat texture for 1.9 boats
-    - Update command blocks to 1.9 format
+    - Tweaked spectral arrow texture to match other arrows; removed ugly fat border, changed colors
+    - Added new projectiles folder with arrow entity textures. Old `arrow.png` no longer used
+    - Added and tweaked Optifine language file, to get matching colored GUI text
+    - Fixed an issue where the upper part of birch door was off colored
+    - Fixed an issue with glass panes where the inner corner was broken
+    - Removed shovel from boat sprites, looks like pre-1.9 boat
+    - Updated smooth boat texture for 1.9 boats
+    - Updated command blocks to 1.9 format
 
 V1.11
 ------
     - Updated for Minecraft 1.10.x
-    - Add structure void item that matches the barrier item
+    - Added structure void item that matches the barrier item
     - Tweaked Magma block
 
 V1.10.2
