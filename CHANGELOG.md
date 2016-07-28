@@ -1,5 +1,9 @@
 Plast Pack Changelog
 ======
+V1.13
+-----
+    - Remove animation for magma block
+
 V1.12
 -----
     - Tweaked spectral arrow texture to match other arrows; removed ugly fat border, changed colors
