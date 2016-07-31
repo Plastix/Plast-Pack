@@ -2,7 +2,8 @@ Plast Pack Changelog
 ======
 V1.13
 -----
-    - Remove animation for magma block
+    - Removed animation for magma block
+    - Tweak bars, matces XP bar etc
 
 V1.12
 -----
