@@ -5,6 +5,7 @@ V1.13
     - Removed animation for magma block
     - Tweak bars, matces XP bar etc
     - Made diamond horse armor more blueish (matches regular diamond gear/items)
+    - Renamed Fish to Cod
 
 V1.12
 -----
