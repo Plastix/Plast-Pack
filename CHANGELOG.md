@@ -6,6 +6,7 @@ V1.13
     - Tweak bars, matces XP bar etc
     - Made diamond horse armor more blueish (matches regular diamond gear/items)
     - Renamed Fish to Cod
+    - Added random panoramas
 
 V1.12
 -----
