@@ -7,6 +7,7 @@ V1.13
     - Made diamond horse armor more blueish (matches regular diamond gear/items)
     - Renamed Fish to Cod
     - Added random panoramas
+    - Fixed broken arms on Alex skin
 
 V1.12
 -----
