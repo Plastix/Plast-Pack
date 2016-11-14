@@ -10,6 +10,7 @@ V1.13
     - Renamed Fish to Cod
     - Added random panoramas
     - Fixed broken arms on Alex skin
+    - Changed durability color (green is now aqua)
 
 V1.12
 -----
