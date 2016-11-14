@@ -1,10 +1,10 @@
 {
   "pack": {
-    "pack_format": 2,
-    "description": "\u00A7ev1.13-pre \u00A7bfor Minecraft \u00A7c1.10.x\n\u00A7bby \u00A7aPlastix"
+    "pack_format": 3,
+    "description": "\u00A7ev1.13 \u00A7bfor Minecraft \u00A7c1.11.x\n\u00A7bby \u00A7aPlastix"
   },
   "language": {
-      "en_OC": {
+      "en_oc": {
       "name": "\u00A7eEnglish",
       "region": "\u00A7bColor\u00A7e",
       "bidirectional": false

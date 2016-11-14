@@ -2,8 +2,10 @@ Plast Pack Changelog
 ======
 V1.13
 -----
+    - Updated for Minecraft 1.11.x
+      - Removed markings on filled map due to conflict with current texture
     - Removed animation for magma block
-    - Tweak bars, matces XP bar etc
+    - Tweak bars, matches XP bar etc
     - Made diamond horse armor more blueish (matches regular diamond gear/items)
     - Renamed Fish to Cod
     - Added random panoramas
