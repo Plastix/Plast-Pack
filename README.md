@@ -23,3 +23,8 @@ Special Thanks to:
 * [Lzn02](http://www.minecraftforum.net/topic/1436016-): Some custom sounds
 * [i2](https://oc.tc/i2): Feedback and language file help
 * [Brottweiler](https://github.com/Brottweiler): Various fixes and custom textures
+
+Licensing:
+------
+The Plast Pack is released under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/) license.
+![license](http://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
