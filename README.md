@@ -1,6 +1,8 @@
 Plast Pack
 ==========
 
+[![Github All Releases](https://img.shields.io/github/downloads/Plastix/Plast-Pack/total.svg)](https://github.com/Plastix/Plast-Pack/releases)
+
 >A PVP customized version of the default Minecraft resource pack. Made for [oc.tc](https://oc.tc/)! Vivid colors and smooth textures!
 
 Supports Optifine/MCPatcher features such as *Connected Textures*, *Custom Colors*, and *Natural Textures*.
