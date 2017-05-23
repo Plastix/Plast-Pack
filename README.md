@@ -7,7 +7,7 @@ Plast Pack
 
 Supports Optifine/MCPatcher features such as *Connected Textures*, *Custom Colors*, and *Natural Textures*.
 
-The full Changelog is available [here](https://github.com/Plastix/Plast-Pack/blob/master/CHANGELOG.md)!
+The full Changelog is available [here](https://github.com/Plastix/Plast-Pack/blob/master/CHANGELOG.md)! Screenshots [here](https://imgur.com/a/EUHFX)!
 
 Special Thanks to:
 ------
