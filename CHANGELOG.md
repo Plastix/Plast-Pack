@@ -1,5 +1,15 @@
 Plast Pack Changelog
 ======
+V1.16
+-----
+    - Update to 1.12
+      - Changed green knowledge book to blue
+
+V1.15
+-----
+    - Update to 1.12
+      - Added multiple colored beds
+
 V1.14
 -----
     - Update to 1.11.2
