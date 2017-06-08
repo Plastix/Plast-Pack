@@ -1,18 +1,14 @@
 Plast Pack Changelog
 ======
-V1.17
------
-    - Tweaked beacon pyramids in GUI (Thanks plexigras!)
-
 V1.16
 -----
-    - Update to 1.12
-      - Changed green knowledge book to blue
+    - Tweaked beacon pyramids in GUI (Thanks plexigras!)
 
 V1.15
 -----
     - Update to 1.12
       - Added multiple colored beds
+      - Changed green knowledge book to blue
 
 V1.14
 -----
