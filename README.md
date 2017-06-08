@@ -25,6 +25,7 @@ Special Thanks to:
 * [Lzn02](http://www.minecraftforum.net/topic/1436016-): Some custom sounds
 * [i2](https://web.archive.org/web/20160925023144/https://oc.tc/i2): Feedback and language file help
 * [Brottweiler](https://github.com/Brottweiler): Various fixes and custom textures
+* [plexigras](https://github.com/plexigras): Beacon pyramid tweak
 
 Licensing:
 ------

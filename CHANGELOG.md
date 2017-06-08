@@ -1,5 +1,9 @@
 Plast Pack Changelog
 ======
+V1.17
+-----
+    - Tweaked beacon pyramids in GUI (Thanks plexigras!)
+
 V1.16
 -----
     - Update to 1.12
