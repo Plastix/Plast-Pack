@@ -3,6 +3,7 @@ Plast Pack Changelog
 V1.16
 -----
     - Tweaked beacon pyramids in GUI (Thanks plexigras!)
+    - Slight improvements to recipe book
 
 V1.15
 -----
