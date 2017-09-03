@@ -1,0 +1,106 @@
+///
+/// Big Picture by HTML5 UP
+/// html5up.net | @ajlkn
+/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+///
+
+/* Footer */
+
+	#footer {
+		position: relative;
+		height: 5em;
+		line-height: 5em;
+		margin: 0;
+		background: _palette(accent3, bg);
+		color: _palette(accent3, fg);
+		overflow: hidden;
+
+		a {
+			color: inherit;
+
+			&:hover {
+				color: _palette(accent3, fg-bold);
+			}
+		}
+
+		ul {
+			&.actions {
+				position: absolute;
+				left: 1em;
+				top: 0.25em;
+				height: 5em;
+				line-height: 5em;
+				margin: 0;
+
+				li {
+					font-size: 1.25em;
+					margin: 0;
+
+					a {
+						padding: 0.5em;
+					}
+				}
+			}
+
+			&.menu {
+				position: absolute;
+				right: 2em;
+				top: 0;
+				height: 5em;
+				line-height: 5em;
+				margin: 0;
+
+				li {
+					border-left-color: _palette(accent3, border);
+					font-size: 0.9em;
+				}
+			}
+		}
+
+		@include breakpoint(medium) {
+			height: auto;
+			line-height: inherit;
+			text-align: center;
+			padding: 2em 1em 2em 1em;
+
+			ul {
+				&.actions {
+					position: relative;
+					left: 0;
+					top: 0;
+					height: auto;
+					line-height: inherit;
+					margin: 0 0 1em 0;
+				}
+
+				&.menu {
+					position: relative;
+					right: 0;
+					top: 0;
+					height: auto;
+					line-height: inherit;
+				}
+			}
+		}
+
+		@include breakpoint(small) {
+			ul {
+				&.menu {
+					li {
+						border-left: 0;
+						padding: 1em 0 0 0;
+						margin: 0;
+						display: block;
+
+						&:first-child {
+							padding-top: 0;
+						}
+
+						a {
+							line-height: 1.5em;
+						}
+					}
+				}
+			}
+		}
+	}

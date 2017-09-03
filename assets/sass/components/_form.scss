@@ -1,0 +1,131 @@
+///
+/// Big Picture by HTML5 UP
+/// html5up.net | @ajlkn
+/// Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+///
+
+/* Form */
+
+	form {
+		margin: 0 0 _size(element-margin) 0;
+
+		.field {
+			margin: 0 0 (_size(element-margin) * 0.75) 0;
+
+			&.half {
+				width: 50%;
+				float: left;
+				padding: 0 0 0 (_size(element-margin) * 0.75 * 0.5);
+
+				&.first {
+					padding: 0 (_size(element-margin) * 0.75 * 0.5) 0 0;
+				}
+			}
+		}
+
+		> .actions {
+			margin: (_size(element-margin) * 0.75) 0 0 0 !important;
+		}
+
+		@include breakpoint(small) {
+			.field {
+				margin: 0 0 (_size(element-margin) * 0.5) 0;
+
+				&.half {
+					padding: 0 0 0 (_size(element-margin) * 0.5 * 0.5);
+
+					&.first {
+						padding: 0 (_size(element-margin) * 0.5 * 0.5) 0 0;
+					}
+				}
+			}
+
+			> .actions {
+				margin: (_size(element-margin) * 0.5) 0 0 0 !important;
+			}
+		}
+
+		@include breakpoint(xsmall) {
+			.field {
+				&.half {
+					width: 100%;
+					float: none;
+					padding: 0;
+
+					&.first {
+						padding: 0;
+					}
+				}
+			}
+		}
+	}
+
+	label {
+		display: block;
+	}
+
+	input[type="text"],
+	input[type="password"],
+	input[type="email"],
+	input[type="tel"],
+	input[type="search"],
+	input[type="url"],
+	select,
+	textarea {
+		@include vendor('appearance', 'none');
+		@include vendor('transition', (
+			'border-color #{_duration(transition)} ease-in-out',
+			'color #{_duration(transition)} ease-in-out'
+		));
+		color: _palette(fg);
+		display: block;
+		width: 100%;
+		padding: 0.65em 0.75em;
+		background: none;
+		border: solid 2px _palette(border);
+		color: inherit;
+		border-radius: 0.5em;
+		outline: none;
+
+		&:focus {
+			border-color: _palette(accent2, bg);
+		}
+	}
+
+	input[type="text"],
+	input[type="password"],
+	input[type="email"],
+	input[type="tel"],
+	input[type="search"],
+	input[type="url"],
+	select {
+		line-height: 1.35em;
+	}
+
+	textarea {
+		min-height: 8em;
+	}
+
+	::-moz-focus-inner {
+		border: 0;
+	}
+
+	::-webkit-input-placeholder {
+		opacity: 0.375;
+	}
+
+	:-moz-placeholder {
+		opacity: 0.375;
+	}
+
+	::-moz-placeholder {
+		opacity: 0.375;
+	}
+
+	:-ms-input-placeholder {
+		opacity: 0.375;
+	}
+
+	.formerize-placeholder {
+		opacity: 0.375;
+	}
