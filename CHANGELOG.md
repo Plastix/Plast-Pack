@@ -4,6 +4,7 @@ V1.16
 -----
     - Tweaked beacon pyramids in GUI (Thanks plexigras!)
     - Slight improvements to recipe book
+    - Removed stray pixel from clay to make it smoother
 
 V1.15
 -----
