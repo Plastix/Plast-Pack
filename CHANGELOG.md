@@ -2,6 +2,7 @@ Plast Pack Changelog
 ======
 V1.16
 -----
+    - Updated to 1.13
     - Tweaked beacon pyramids in GUI (Thanks plexigras!)
     - Slight improvements to recipe book
     - Removed stray pixel from clay to make it smoother
