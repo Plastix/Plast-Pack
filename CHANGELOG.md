@@ -2,6 +2,7 @@ Plast Pack Changelog
 ======
 V1.16.1
 ------
+    - Updated to 1.13.1
     - Added a new splash
 
 V1.16
