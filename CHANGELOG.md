@@ -4,8 +4,9 @@ V1.16.1
 ------
     - Updated to 1.13.1
     - Added a new splash
-    - Add grass flowers CTM
+    - Added grass flowers CTM
     - Fixed many issues with MCPatcher/Optifine features not being updated to 1.13
+    - Added emissive textures for bow
 
 V1.16
 -----
