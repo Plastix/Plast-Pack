@@ -174,7 +174,7 @@ of.options.shaders.NORMAL_MAP.tooltip.3=  OFF - disable normal maps
 of.options.shaders.NORMAL_MAP.tooltip.4=Normal maps can be used by the shader pack
 of.options.shaders.NORMAL_MAP.tooltip.5=to simulate 3D geometry on flat model surfaces.
 of.options.shaders.NORMAL_MAP.tooltip.6=The normal map textures are supplied by the
-of.options.shaders.NORMAL_MAP.tooltip.7=current texture pack.
+of.options.shaders.NORMAL_MAP.tooltip.7=current resource pack.
 
 of.options.shaders.SPECULAR_MAP=§bSpecular Map
 of.options.shaders.SPECULAR_MAP.tooltip.1=Specular Map
@@ -183,7 +183,7 @@ of.options.shaders.SPECULAR_MAP.tooltip.3=  OFF - disable specular maps
 of.options.shaders.SPECULAR_MAP.tooltip.4=Specular maps can be used by the shader pack
 of.options.shaders.SPECULAR_MAP.tooltip.5=to simulate special reflection effects.
 of.options.shaders.SPECULAR_MAP.tooltip.6=The specular map textures are supplied by the
-of.options.shaders.SPECULAR_MAP.tooltip.7=current texture pack.
+of.options.shaders.SPECULAR_MAP.tooltip.7=current resource pack.
 
 of.options.shaders.RENDER_RES_MUL=§bRender Quality
 of.options.shaders.RENDER_RES_MUL.tooltip.1=Render Quality
@@ -315,12 +315,12 @@ of.options.CLEAR_WATER.tooltip.1=Clear Water
 of.options.CLEAR_WATER.tooltip.2=  ON - clear, transparent water
 of.options.CLEAR_WATER.tooltip.3=  OFF - default water
 
-of.options.RANDOM_ENTITIES=§bRandom Mobs
+of.options.RANDOM_ENTITIES=§bRandom Entities
 of.options.RANDOM_ENTITIES.tooltip.1=Random Entities
 of.options.RANDOM_ENTITIES.tooltip.2=  OFF - no random entities, faster
 of.options.RANDOM_ENTITIES.tooltip.3=  ON - random entities, slower
 of.options.RANDOM_ENTITIES.tooltip.4=Random entities uses random textures for the game entities.
-of.options.RANDOM_ENTITIES.tooltip.5=It needs a texture pack which has multiple entity textures.
+of.options.RANDOM_ENTITIES.tooltip.5=It needs a resource pack which has multiple entity textures.
 
 of.options.BETTER_GRASS=§bBetter Grass
 of.options.BETTER_GRASS.tooltip.1=Better Grass
@@ -391,7 +391,7 @@ of.options.EMISSIVE_TEXTURES.tooltip.4=The emissive textures are rendered as ove
 of.options.EMISSIVE_TEXTURES.tooltip.5=with full brightness. They can be used to simulate
 of.options.EMISSIVE_TEXTURES.tooltip.6=light emitting parts of the base texture.
 of.options.EMISSIVE_TEXTURES.tooltip.7=The emissive textures are supplied by the current
-of.options.EMISSIVE_TEXTURES.tooltip.8=texture pack.
+of.options.EMISSIVE_TEXTURES.tooltip.8=resource pack.
 
 of.options.CUSTOM_SKY=§bCustom Sky
 of.options.CUSTOM_SKY.tooltip.1=Custom Sky
@@ -418,7 +418,7 @@ of.options.CUSTOM_GUIS=§bCustom GUIs
 of.options.CUSTOM_GUIS.tooltip.1=Custom GUIs
 of.options.CUSTOM_GUIS.tooltip.2=  ON - custom GUIs (default), slower
 of.options.CUSTOM_GUIS.tooltip.3=  OFF - default GUIs, faster
-of.options.CUSTOM_GUIS.tooltip.4=The custom GUIs are supplied by the current texture pack.
+of.options.CUSTOM_GUIS.tooltip.4=The custom GUIs are supplied by the current resource pack.
 
 # Details
 
@@ -575,7 +575,7 @@ of.options.CHUNK_UPDATES.tooltip.6=higher values may destabilize the framerate.
 
 of.options.CHUNK_UPDATES_DYNAMIC=§bDynamic Updates
 of.options.CHUNK_UPDATES_DYNAMIC.tooltip.1=Dynamic chunk updates
-of.options.CHUNK_UPDATES_DYNAMIC.tooltip.2= OFF - (default) standard chunk updates per frame
+of.options.CHUNK_UPDATES_DYNAMIC.tooltip.2= OFF - standard chunk updates per frame (default)
 of.options.CHUNK_UPDATES_DYNAMIC.tooltip.3= ON - more updates while the player is standing still
 of.options.CHUNK_UPDATES_DYNAMIC.tooltip.4=Dynamic updates force more chunk updates while
 of.options.CHUNK_UPDATES_DYNAMIC.tooltip.5=the player is standing still to load the world faster.
@@ -595,6 +595,7 @@ of.options.RENDER_REGIONS.tooltip.2= OFF - do not use render regions (default)
 of.options.RENDER_REGIONS.tooltip.3= ON - use render regions
 of.options.RENDER_REGIONS.tooltip.4=Render regions allow faster terrain rendering at higher
 of.options.RENDER_REGIONS.tooltip.5=render distances. More effective when VBOs are enabled.
+of.options.RENDER_REGIONS.tooltip.6=Not recommended for integrated graphics cards.
 
 of.options.SMART_ANIMATIONS=§bSmart Animations
 of.options.SMART_ANIMATIONS.tooltip.1=Smart Animations

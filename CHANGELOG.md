@@ -1,5 +1,12 @@
 Plast Pack Changelog
 ======
+V1.16.2
+-------
+    - Updated to 1.13.2
+    - Fixed missing door textures
+    - Fixed missing Illusioner texture
+    - Fixed several mcpatcher features
+
 V1.16.1
 ------
     - Updated to 1.13.1
