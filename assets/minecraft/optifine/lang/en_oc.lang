@@ -1,8 +1,10 @@
 # General
 of.general.ambiguous=ambiguous
+of.general.compact=Compact
 of.general.custom=Custom
 of.general.from=From
 of.general.id=Id
+of.general.max=Maximum
 of.general.restart=restart
 of.general.smart=§dSmart
 
@@ -50,6 +52,16 @@ of.message.loadingVisibleChunks=Loading visible chunks
 # Skin customization
 
 of.options.skinCustomisation.ofCape=§bOptiFine Cape
+
+of.options.capeOF.title=OptiFine Cape
+of.options.capeOF.openEditor=§bOpen Cape Editor
+of.options.capeOF.reloadCape=§bReload Cape
+
+of.message.capeOF.openEditor=The OptiFine cape editor should open in a web browser.
+of.message.capeOF.reloadCape=The cape will be reloaded in 15 seconds.
+
+of.message.capeOF.error1=Mojang authentication failed.
+of.message.capeOF.error2=Error: %s
 
 # Video settings
 
@@ -105,6 +117,7 @@ options.guiScale.tooltip.4=  4x to 10x - available on 4K displays
 options.guiScale.tooltip.5=Odd values (1x, 3x, 5x ...) are not compatible with Unicode.
 options.guiScale.tooltip.6=A smaller GUI may be faster.
 
+options.vbo=§bUse VBOs
 options.vbo.tooltip.1=Vertex Buffer Objects
 options.vbo.tooltip.2=Uses an alternative rendering model which is usually
 options.vbo.tooltip.3=faster (5-10%%) than the default rendering.
@@ -120,6 +133,13 @@ options.anaglyph.tooltip.1=§b3D Anaglyph
 options.anaglyph.tooltip.2=Enables a stereoscopic 3D effect using different colors
 options.anaglyph.tooltip.3=for each eye.
 options.anaglyph.tooltip.4=Requires red-cyan glasses for proper viewing.
+
+options.attackIndicator.tooltip.1=Configures the position of the attack indicator
+options.attackIndicator.tooltip.2=  Crosshair - under the crosshair
+options.attackIndicator.tooltip.3=  Hotbar - next to the hotbar
+options.attackIndicator.tooltip.4=  OFF - no attack indicator
+options.attackIndicator.tooltip.5=The attack indicator shows the attack power of the
+options.attackIndicator.tooltip.6=currently equipped item
 
 of.options.ALTERNATE_BLOCKS=§bAlternate Blocks
 of.options.ALTERNATE_BLOCKS.tooltip.1=Alternate Blocks
@@ -280,7 +300,7 @@ options.mipmapLevels.tooltip.1=Visual effect which makes distant objects look be
 options.mipmapLevels.tooltip.2=by smoothing the texture details
 options.mipmapLevels.tooltip.3=  OFF - no smoothing
 options.mipmapLevels.tooltip.4=  1 - minimum smoothing
-options.mipmapLevels.tooltip.5=  4 - maximum smoothing
+options.mipmapLevels.tooltip.5=  Maximum - maximum smoothing
 options.mipmapLevels.tooltip.6=This option usually does not affect the performance.
 
 of.options.MIPMAP_TYPE=§bMipmap Type
@@ -533,6 +553,13 @@ of.options.DYNAMIC_LIGHTS.tooltip.5=Enables light emitting items (torch, glowsto
 of.options.DYNAMIC_LIGHTS.tooltip.6=to illuminate everything around them when held in hand,
 of.options.DYNAMIC_LIGHTS.tooltip.7=equipped by other player or dropped on the ground.
 
+options.biomeBlendRadius.tooltip.1=Smooths the color transition between biomes
+options.biomeBlendRadius.tooltip.2=  OFF - no blending (fastest)
+options.biomeBlendRadius.tooltip.3=  5x5 - normal blending (default)
+options.biomeBlendRadius.tooltip.4=  15x15 - maximal blending (slowest)
+options.biomeBlendRadius.tooltip.5=Higher values may generate significant lag spikes
+options.biomeBlendRadius.tooltip.6=add slow down the chunk loading speed.
+
 # Performance
 
 of.options.SMOOTH_FPS=§bSmooth FPS
@@ -673,12 +700,12 @@ options.fullscreen.tooltip.3=  OFF - use window mode
 options.fullscreen.tooltip.4=Fullscreen mode may be faster or slower than
 options.fullscreen.tooltip.5=window mode, depending on the graphics card.
 
-of.options.FULLSCREEN_MODE=§bFullscreen Mode
-of.options.FULLSCREEN_MODE.tooltip.1=Fullscreen mode
-of.options.FULLSCREEN_MODE.tooltip.2=  Default - use desktop screen resolution, slower
-of.options.FULLSCREEN_MODE.tooltip.3=  WxH - use custom screen resolution, may be faster
-of.options.FULLSCREEN_MODE.tooltip.4=The selected resolution is used in fullscreen mode (F11).
-of.options.FULLSCREEN_MODE.tooltip.5=Lower resolutions should generally be faster.
+options.fullscreen.resolution=§bFullscreen Mode
+options.fullscreen.resolution.tooltip.1=Fullscreen mode
+options.fullscreen.resolution.tooltip.2=  Default - use desktop screen resolution, slower
+options.fullscreen.resolution.tooltip.3=  WxH - use custom screen resolution, may be faster
+options.fullscreen.resolution.tooltip.4=The selected resolution is used in fullscreen mode (F11).
+options.fullscreen.resolution.tooltip.5=Lower resolutions should generally be faster.
 
 of.options.SHOW_FPS=§bShow FPS
 of.options.SHOW_FPS.tooltip.1=Shows compact FPS and render information.
@@ -689,15 +716,18 @@ of.options.SHOW_FPS.tooltip.5=  U: - chunk updates
 of.options.SHOW_FPS.tooltip.6=The compact FPS information is only shown when the
 of.options.SHOW_FPS.tooltip.7=debug screen is not visible.
 
-of.options.save.default=§cDefault (2s)
-of.options.save.20s=§e20s
-of.options.save.3min=§a3min
-of.options.save.30min=§530min
+of.options.save.45s=§445s
+of.options.save.90s=§c90s
+of.options.save.3min=§e3min
+of.options.save.6min=§a6min
+of.options.save.12min=§512min
+of.options.save.24min=§524min
 
 of.options.AUTOSAVE_TICKS=§bAutosave
-of.options.AUTOSAVE_TICKS.tooltip.1=Autosave interval
-of.options.AUTOSAVE_TICKS.tooltip.2=Default autosave interval (2s) is NOT RECOMMENDED.
-of.options.AUTOSAVE_TICKS.tooltip.3=Autosave causes the famous Lag Spike of Death.
+of.options.AUTOSAVE_TICKS.tooltip.1=Autosave Interval
+of.options.AUTOSAVE_TICKS.tooltip.2= 45s - default
+of.options.AUTOSAVE_TICKS.tooltip.3=Autosave may generate lag spikes depending on the render distance.
+of.options.AUTOSAVE_TICKS.tooltip.4=The world is also saved when the game menu is opened.
 
 of.options.SCREENSHOT_SIZE=§bScreenshot Size
 of.options.SCREENSHOT_SIZE.tooltip.1=Screenshot Size
@@ -714,3 +744,16 @@ of.options.SHOW_GL_ERRORS.tooltip.3=Disable it only if there is a known conflict
 of.options.SHOW_GL_ERRORS.tooltip.4=the errors can't be fixed.
 of.options.SHOW_GL_ERRORS.tooltip.5=When disabled the errors are still logged in the
 of.options.SHOW_GL_ERRORS.tooltip.6=error log and they may still cause a significant FPS drop.
+
+# Chat Settings
+
+of.options.CHAT_BACKGROUND=§bChat Background
+of.options.CHAT_BACKGROUND.tooltip.1=Chat Background
+of.options.CHAT_BACKGROUND.tooltip.2=  Default - fixed width
+of.options.CHAT_BACKGROUND.tooltip.3=  Compact - matches line width
+of.options.CHAT_BACKGROUND.tooltip.4=  OFF - hidden
+
+of.options.CHAT_SHADOW=§bChat Shadow
+of.options.CHAT_SHADOW.tooltip.1=Chat Shadow
+of.options.CHAT_SHADOW.tooltip.2=  ON - use text shadow
+of.options.CHAT_SHADOW.tooltip.3=  OFF - no text shadow
