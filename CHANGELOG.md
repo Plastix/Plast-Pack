@@ -1,7 +1,8 @@
 Plast Pack Changelog
 ======
-V1.17.1
+V1.18
 ------
+    - Updated to 1.15
     - Tweaked hotbar cooldown indicator to look like oc.tc sword
 
 V1.17
