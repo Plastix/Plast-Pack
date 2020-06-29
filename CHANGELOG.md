@@ -1,5 +1,11 @@
 Plast Pack Changelog
 ======
+V1.19
+-----
+    - Updated to 1.16
+      - Netherite tools match other tools
+      - Nether gold blocks matches regular gold ore
+
 V1.18
 ------
     - Updated to 1.15
