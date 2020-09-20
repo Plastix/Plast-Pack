@@ -1,5 +1,11 @@
 Plast Pack Changelog
 ======
+V1.20.1
+-------
+    - Made netherite tools look better
+    - Fixed bugs:
+        - Fixed a bug with bricks texture not working
+
 V1.20
 -----
     - Updated to 1.16.2
