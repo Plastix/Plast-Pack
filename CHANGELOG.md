@@ -5,6 +5,7 @@ V1.20.1
     - Made netherite tools look better
     - Fixed bugs:
         - Fixed a bug with bricks texture not working
+    - Added colored strings for Realms
 
 V1.20
 -----
