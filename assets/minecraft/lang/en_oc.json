@@ -326,7 +326,7 @@
   "multiplayer.texturePrompt.line2": "Would you like to download and install it automagically?",
   "multiplayer.downloadingTerrain": "§aLoading terrain",
   "multiplayer.downloadingStats": "§aRetrieving statistics...",
-  "multiplayer.stopSleeping": "Leave Bed",
+  "multiplayer.stopSleeping": "§bLeave Bed",
   "multiplayer.message_not_delivered": "Can't deliver chat message, check server logs: %s",
   "multiplayer.player.joined": "%s joined",
   "multiplayer.player.joined.renamed": "%s (formerly known as %s) joined",
