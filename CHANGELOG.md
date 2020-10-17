@@ -7,6 +7,7 @@ V1.20.1
         - Fixed a bug with bricks texture not working
         - Fixed several file names
     - Added colored strings for Realms
+    - Added nylium to natural textures
 
 V1.20
 -----
