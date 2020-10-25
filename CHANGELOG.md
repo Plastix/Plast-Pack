@@ -9,6 +9,7 @@ V1.20.1
         - Fixed title screen image
     - Added colored strings for Realms
     - Added nylium to natural textures
+    - Added new cracked and chiseled netherbrick textures
 
 V1.20
 -----
