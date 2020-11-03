@@ -2,15 +2,16 @@ Plast Pack Changelog
 ======
 V1.21
 -------
-    - Upgraded to 1.16.4
+    - Updated to 1.16.4
     - Made netherite tools look better
+    - Added colored strings for Realms
+    - Added nylium to natural textures
+    - Added new cracked and chiseled netherbrick textures
+    - Colored PvP related subtitles
     - Fixed bugs:
         - Fixed a bug with bricks texture not working
         - Fixed several file names
         - Fixed title screen image
-    - Added colored strings for Realms
-    - Added nylium to natural textures
-    - Added new cracked and chiseled netherbrick textures
 
 V1.20
 -----
