@@ -8,6 +8,7 @@ V1.21
     - Added nylium to natural textures
     - Added new cracked and chiseled netherbrick textures
     - Colored PvP related subtitles
+    - Tweaked gamemode switcher gui
     - Fixed bugs:
         - Fixed a bug with bricks texture not working
         - Fixed several file names
