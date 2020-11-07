@@ -9,6 +9,7 @@ V1.21
     - Added new cracked and chiseled netherbrick textures
     - Colored PvP related subtitles
     - Tweaked gamemode switcher gui
+    - Added missing crimson and warped blocks
     - Fixed bugs:
         - Fixed a bug with bricks texture not working
         - Fixed several file names
