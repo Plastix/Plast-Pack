@@ -10,6 +10,7 @@ V1.21
     - Colored PvP related subtitles
     - Tweaked gamemode switcher gui
     - Added missing crimson and warped blocks
+    - Added some new blocks to natural textures
     - Fixed bugs:
         - Fixed a bug with bricks texture not working
         - Fixed several file names
