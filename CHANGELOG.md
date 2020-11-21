@@ -11,6 +11,7 @@ V1.21
     - Tweaked gamemode switcher gui
     - Added missing crimson and warped blocks
     - Added some new blocks to natural textures
+    - Made trident icon skinnier
     - Fixed bugs:
         - Fixed a bug with bricks texture not working
         - Fixed several file names
