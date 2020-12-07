@@ -4,6 +4,7 @@ V1.19.2
 -------
     - Updated to 1.16.4
     - Made netherite tools look better
+    - Added netherite helmet item
     - Added colored strings for Realms
     - Added nylium to natural textures
     - Added new cracked and chiseled netherbrick textures
