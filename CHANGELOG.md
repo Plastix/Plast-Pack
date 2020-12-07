@@ -1,6 +1,6 @@
 Plast Pack Changelog
 ======
-V1.21
+V1.19.2
 -------
     - Updated to 1.16.4
     - Made netherite tools look better
@@ -17,7 +17,7 @@ V1.21
         - Fixed several file names
         - Fixed title screen image
 
-V1.20
+V1.19.1
 -----
     - Updated to 1.16.2
 
