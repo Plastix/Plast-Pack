@@ -13,6 +13,7 @@ V1.19.2
     - Added missing crimson and warped blocks
     - Added some new blocks to natural textures
     - Made trident icon skinnier
+    - Added some new splashes
     - Fixed bugs:
         - Fixed a bug with bricks texture not working
         - Fixed several file names

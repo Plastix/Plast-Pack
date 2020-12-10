@@ -63,7 +63,7 @@
 §b Listen to DJ Raider!
 §b Pew Pew Bow!
 §b Efficiency VII bows!
-§b Tweet @OvercastNetwork!
+§b Tweet @OvercastPGM!
 §b New map??
 §b Use /report!
 §b Go play some GS!
@@ -125,9 +125,9 @@
 §b Don't forget to craft an axe!
 §b Turn on Custom Colors!
 §b Turn on Connected Textures!
-§b Turn on Random Mobs!
+§b Turn on Random Entities!
 §b Turn on Natural Textures!
-§b Try Optifine or MCPatcher!
+§b Try Optifine!
 §b Rainbow XP!
 §b Neon green grass!
 §b Context is important!
@@ -146,7 +146,7 @@
 §b Don't stop clicking!
 §b Some men just want to see the world burn!
 §b Use a wireless mouse!
-§b We can never have nice things! 
+§b We can never have nice things!
 §b Strength isn't OP!
 §b Excalliburn!
 §b Better luck next time!
@@ -157,3 +157,19 @@
 §b Plastix #1 Kill Stealer!
 §b Build a fake monument!
 §b Banned for saying yolo!
+§b Cloudy is always watching
+§b Newstalgia!
+§b Oʌǝɹɔɐsʇ Ɔoɯɯnuᴉʇʎ
+§b ytinummoC tsacrevO
+§b Multitool Pickaxes!
+§b Discord party!
+§b /server gs1
+§b Doge!
+§b Guess the map!
+§b Directrix!
+§b !map
+§b #FreeGrassy
+§b Search and Destroy!
+§b Ghost Squadron!
+§b Project Ares!
+§b Rush for Nile!
