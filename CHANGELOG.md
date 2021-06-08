@@ -1,7 +1,8 @@
 Plast Pack Changelog
 ======
-V1.19.3
+V1.20
 -------
+	- Updated to 1.17
 	- Added missing CTM for polished blackstone button and pressureplate
 	- Fixed bugs:
 		- Fixed smooth stone slab not using natural textures
