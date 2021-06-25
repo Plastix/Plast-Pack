@@ -4,6 +4,10 @@ V1.20
 -------
 	- Updated to 1.17
 	- Added missing CTM for polished blackstone button and pressureplate
+	- Added clear overlays for spyglass and freezing effect
+	- Tweaked Azalea leaves
+	- Tweaked rooted dirt
+	- Tweaked tinted glass
 	- Fixed bugs:
 		- Fixed smooth stone slab not using natural textures
 
