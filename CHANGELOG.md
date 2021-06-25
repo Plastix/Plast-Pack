@@ -10,6 +10,7 @@ V1.20
     - Tweaked tinted glass
     - Fixed bugs:
         - Fixed smooth stone slab not using natural textures
+        - Fixed missing fish buckets
 
 V1.19.2
 -------
