@@ -8,6 +8,7 @@ V1.20
     - Tweaked Azalea leaves
     - Tweaked rooted dirt
     - Tweaked tinted glass
+	- Removed some duplicated textures in favor of model files. For example, coarse dirt shares texture with dirt.
     - Fixed bugs:
         - Fixed smooth stone slab not using natural textures
         - Fixed missing fish buckets
