@@ -1,10 +1,16 @@
 Plast Pack Changelog
 ======
-V1.19.3
+V1.20
 -------
-	- Added missing CTM for polished blackstone button and pressureplate
-	- Fixed bugs:
-		- Fixed smooth stone slab not using natural textures
+    - Updated to 1.17
+    - Added missing CTM for polished blackstone button and pressureplate
+    - Added clear overlays for spyglass and freezing effect
+    - Tweaked Azalea leaves
+    - Tweaked rooted dirt
+    - Tweaked tinted glass
+    - Fixed bugs:
+        - Fixed smooth stone slab not using natural textures
+        - Fixed missing fish buckets
 
 V1.19.2
 -------
