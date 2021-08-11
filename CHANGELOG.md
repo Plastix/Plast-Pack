@@ -9,6 +9,7 @@ V1.20
     - Tweaked rooted dirt
     - Tweaked tinted glass
     - Removed some duplicated textures in favor of model files. For example, coarse dirt shares texture with dirt.
+    - Made grass/snow/dirt path side texture use the proper breaking particle.
     - Fixed bugs:
         - Fixed smooth stone slab not using natural textures
         - Fixed missing fish buckets
