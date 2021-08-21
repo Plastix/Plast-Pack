@@ -13,6 +13,7 @@ V1.20
     - Fixed bugs:
         - Fixed smooth stone slab not using natural textures
         - Fixed missing fish buckets
+        - Added missing CTM for crimson/warped buttons and pressure plates
 
 V1.19.2
 -------
