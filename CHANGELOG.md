@@ -3,7 +3,6 @@ Plast Pack Changelog
 V1.20
 -------
     - Updated to 1.17
-    - Added missing CTM for polished blackstone button and pressureplate
     - Added clear overlays for spyglass and freezing effect
     - Tweaked Azalea leaves
     - Tweaked rooted dirt
@@ -13,7 +12,7 @@ V1.20
     - Fixed bugs:
         - Fixed smooth stone slab not using natural textures
         - Fixed missing fish buckets
-        - Added missing CTM for crimson/warped buttons and pressure plates
+        - Added missing button & pressure plate CTM for polished blackstone, crimson & warped planks
 
 V1.19.2
 -------
