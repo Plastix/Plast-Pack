@@ -2,11 +2,13 @@ Plast Pack Changelog
 ======
 V1.22
 -----
-    - Updated to 1.19
+    - Updated to 1.19.3
+
 V1.21
 ------
     - Updated to 1.18
-	- Added missing ores
+    - Added missing ores
+
 V1.20
 -------
     - Updated to 1.17
