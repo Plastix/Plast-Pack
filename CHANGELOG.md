@@ -3,6 +3,7 @@ Plast Pack Changelog
 V1.22
 -----
     - Updated to 1.19.3
+    - Coloured ModMenu button text
 
 V1.21
 ------
