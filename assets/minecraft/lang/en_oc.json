@@ -948,6 +948,11 @@
   "options.snooper": "§bAllow Snooper",
   "options.snooper.view": "§bSnooper Settings",
   "options.sounds": "§bMusic & Sounds",
+  "options.telemetry": "§bTelemetry Data",
+  "options.telemetry.button": "§bData Collection",
+  "options.telemetry.state.all": "§aAll",
+  "options.telemetry.state.minimal": "§eMinimal",
+  "options.telemetry.state.none": "§cNone",
   "options.touchscreen": "§bTouchscreen Mode",
   "options.video": "§bVideo Settings",
   "options.videoTitle": "§bVideo Settings",
@@ -1059,5 +1064,7 @@
   "subtitles.entity.potion.throw": "§eBottle thrown",
   "subtitles.entity.tnt.primed": "§cTNT fizzes",
   "subtitles.item.crossbow.hit": "§cArrow hits",
+  "options.darknessEffectScale": "§bDarkness Pulsing",
+  "options.accessibility.panorama_speed": "§bPanorama Scroll Speed",
   "subtitles.item.flintandsteel.use": "§cFlint and Steel click"
 }
