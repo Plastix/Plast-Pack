@@ -4,7 +4,7 @@ V1.22
 -----
     - Updated to 1.19.3
     - Add support for ModMenu (Fabric)
-    - Added new default skins
+    - Added new default player skins
 
 V1.21
 ------
