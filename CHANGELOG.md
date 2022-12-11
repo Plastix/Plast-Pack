@@ -4,6 +4,7 @@ V1.22
 -----
     - Updated to 1.19.3
     - Coloured ModMenu button text
+    - Added new default skins
 
 V1.21
 ------
