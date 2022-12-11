@@ -5,3 +5,5 @@
 .psd
 *.xcf
 
+# helpful scripts
+*.sh
