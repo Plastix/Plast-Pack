@@ -26,6 +26,7 @@ Special Thanks to:
 * [i2](https://web.archive.org/web/20160925023144/https://oc.tc/i2): Feedback and language file help
 * [Brottweiler](https://github.com/Brottweiler): Various fixes and custom textures
 * [plexigras](https://github.com/plexigras): Beacon pyramid tweak
+* [zzuf-fer](https://github.com/zzuf-fer): Short sword variants
 
 Licensing:
 ------
