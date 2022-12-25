@@ -780,6 +780,7 @@
   "menu.options": "§6Options",
   "menu.paused": "§cGame Paused",
   "menu.playdemo": "§aPlay Demo World",
+  "menu.playerReporting": "§ePlayer Reporting",
   "menu.preparingSpawn": "§ePreparing spawn area: %s%%",
   "menu.quit": "§cQuit Game",
   "menu.reportBugs": "§eReport Bugs",
@@ -804,6 +805,7 @@
   "multiplayer.stopSleeping": "§bLeave Bed",
   "multiplayerWarning.message": "Caution: Online play is offered by third-party servers that are not owned, operated, or supervised by Mojang or Microsoft. During online play, you may be exposed to unmoderated chat messages or other types of user-generated content that may not be suitable for everyone.",
   "options.accessibility.link": "§bAccessibility Guide",
+  "options.accessibility.panorama_speed": "§bPanorama Scroll Speed",
   "options.accessibility.text_background": "§bText Background",
   "options.accessibility.text_background.chat": "§eChat",
   "options.accessibility.text_background.everywhere": "§aEverywhere",
@@ -852,6 +854,7 @@
   "options.clouds.fast": "§eFast",
   "options.controls": "§bControls",
   "options.darkMojangStudiosBackgroundColor": "§bMonochrome Logo",
+  "options.darknessEffectScale": "§bDarkness Pulsing",
   "options.difficulty": "§bDifficulty",
   "options.difficulty.easy": "§eEasy",
   "options.difficulty.hard": "§cHard",
@@ -1067,7 +1070,5 @@
   "subtitles.entity.potion.throw": "§eBottle thrown",
   "subtitles.entity.tnt.primed": "§cTNT fizzes",
   "subtitles.item.crossbow.hit": "§cArrow hits",
-  "options.darknessEffectScale": "§bDarkness Pulsing",
-  "options.accessibility.panorama_speed": "§bPanorama Scroll Speed",
   "subtitles.item.flintandsteel.use": "§cFlint and Steel click"
 }
