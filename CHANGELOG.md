@@ -3,6 +3,7 @@ Plast Pack Changelog
 V1.22.1
 -------
     - Updated to 1.19.4
+    - Slightly moved position of craftable icon in recipe book
 
 V1.22
 -----
