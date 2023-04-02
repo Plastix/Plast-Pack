@@ -1,4 +1,8 @@
 {
   "key.modmenu.open_menu": "§bOpen Mod Menu",
-  "modmenu.title": "§6Mods"
+  "modmenu.configsFolder": "§bOpen Configs Folder",
+  "modmenu.issues": "§bIssues",
+  "modmenu.modsFolder": "§bOpen Mods Folder",
+  "modmenu.title": "§6Mods",
+  "modmenu.website": "§bWebsite"
 }

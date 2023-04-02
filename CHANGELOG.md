@@ -4,6 +4,7 @@ V1.22.1
 -------
     - Updated to 1.19.4
     - Slightly moved position of craftable icon in recipe book
+    - Added some more colour to modmenu button text
 
 V1.22
 -----
