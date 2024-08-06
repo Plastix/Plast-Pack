@@ -1,6 +1,6 @@
 Plast Pack Changelog
 ======
-V1.3
+V1.24
 ----
     - Updated to 1.21
 
