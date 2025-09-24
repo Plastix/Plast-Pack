@@ -3,7 +3,6 @@ Plast Pack Changelog
 V1.24
 -----
     - Updated to 1.21.x
-    - Added support for multiple versions
 
 V1.23
 -----
