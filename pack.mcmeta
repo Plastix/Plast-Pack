@@ -1,7 +1,9 @@
 {
   "pack": {
-    "pack_format": 64,
-    "description": "\u00A7ev1.24 \u00A7bfor Minecraft \u00A7c1.21.x\n\u00A7bby \u00A7aPlastix"
+    "pack_format": 69,
+    "description": "\u00A7ev1.24 \u00A7bfor Minecraft \u00A7c1.21.x\n\u00A7bby \u00A7aPlastix",
+    "min_format": 69,
+    "max_format": 69
   },
   "language": {
       "en_oc": {
