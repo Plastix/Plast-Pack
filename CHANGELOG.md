@@ -3,6 +3,7 @@ Plast Pack Changelog
 V1.24
 -----
     - Updated to 1.21.11
+    - Added spears
 
 V1.23
 -----
