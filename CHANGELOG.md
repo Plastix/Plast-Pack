@@ -3,6 +3,8 @@ Plast Pack Changelog
 V1.24
 -----
     - Updated to 1.21.11
+    - Added pale wood
+    - Added copper tools and armour
     - Added spears
 
 V1.23
